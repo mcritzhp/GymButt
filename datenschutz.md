@@ -5,7 +5,8 @@ Stand: 17. Oktober 2026
 ## Wer ist verantwortlich?
 
 Moritz Härri
-moritzpfister8@gmail.com
+gymbutt@outlook.com
+
 Diese Erklärung gilt für die iPhone-App GymButt, auch für Testversionen über TestFlight. Sie richtet sich nach dem Schweizer Datenschutzgesetz (DSG) und, soweit anwendbar, nach der EU-Datenschutz-Grundverordnung (DSGVO).
 
 ## Kurz gesagt
