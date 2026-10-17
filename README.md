@@ -4,4 +4,4 @@ GymButt ist eine iPhone-App, die Krafttraining mit einem Avatar verbindet, der m
 
 **Fragen, Fehler oder Feedback?** Schreib an gymbutt@outlook.com
 
-[Datenschutzerklärung](datenschutz)# GymButt
+[Datenschutzerklärung](datenschutz.md)
