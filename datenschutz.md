@@ -1,6 +1,6 @@
 # Datenschutzerklärung GymButt
 
-Stand: 17. Oktober 2026
+Stand: 19. Oktober 2026
 
 ## Wer ist verantwortlich?
 
