@@ -35,10 +35,6 @@ Wenn du es erlaubst, liest GymButt deine Schrittzahl aus Apple Health. Die App n
 
 Der Pausen-Timer, die Koch-Timer und die Trainingsanzeige auf dem Sperrbildschirm sind lokale Mitteilungen. Sie entstehen auf deinem iPhone, es werden dafür keine Daten verschickt. Du kannst sie in den iOS-Einstellungen ausschalten.
 
-## Übungsfotos
-
-Die Fotos zu einem Teil der Übungen stammen aus dem freien Projekt free-exercise-db. Die App lädt sie bei Bedarf über den Dienst jsDelivr (cdn.jsdelivr.net) und speichert sie dann auf dem Gerät. Wie bei jedem Abruf aus dem Internet sieht jsDelivr dabei technisch deine IP-Adresse und die angefragte Datei. GymButt schickt keine weiteren Daten mit. Mehr dazu: https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net
-
 ## Import und Backup
 
 Wenn du eine CSV-Datei (z. B. aus Strong oder Hevy) importierst oder ein Backup exportierst, geschieht das über die Dateiauswahl bzw. das Teilen-Menü von iOS. Wohin du eine exportierte Datei schickst, entscheidest du selbst.
