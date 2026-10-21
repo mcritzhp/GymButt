@@ -1,6 +1,6 @@
 # Datenschutzerklärung GymButt
 
-Stand: 19. Oktober 2026
+Stand: 21. Oktober 2026
 
 ## Wer ist verantwortlich?
 
@@ -11,8 +11,9 @@ Diese Erklärung gilt für die iPhone-App GymButt, auch für Testversionen über
 
 ## Kurz gesagt
 
-- GymButt hat kein Benutzerkonto und keinen eigenen Server.
-- Alle Daten, die du in der App eingibst, bleiben auf deinem iPhone.
+- Ein Konto gibt es nur, wenn du die Funktion **Butties** (Gruppen mit Freunden) nutzt. Ohne Butties bleibt GymButt komplett auf deinem iPhone.
+- Training, Gewichte, Körpergewicht, Ernährung, Schritte und Notizen bleiben immer auf deinem iPhone.
+- Mit Butties teilst du nur wenige Angaben mit den Personen in deiner Gruppe (siehe unten).
 - Es gibt keine Werbung, kein Tracking und keine Analyse-Tools.
 - Wir verkaufen keine Daten und geben keine weiter.
 
@@ -25,7 +26,28 @@ Diese Daten speichert GymButt nur lokal auf deinem Gerät:
 - **Ernährungsprofil:** Ernährungsform (vegan, vegetarisch, alles), Körpergewicht, Ziel, Mahlzeiten pro Tag und Lieblingsrezepte.
 - **Einstellungen:** Sprache, Einheiten, Erinnerungen.
 
-Wir haben keinen Zugriff auf diese Daten. Wenn du die App löschst, sind sie weg. Ausnahme: ein Backup deines iPhones über iCloud oder einen Computer. Dafür gelten die Bedingungen von Apple.
+Wir haben keinen Zugriff auf diese Daten. Wenn du die App löschst, sind sie weg (ein Butties-Konto löschst du vorher in den Einstellungen, siehe unten). Ausnahme: ein Backup deines iPhones über iCloud oder einen Computer. Dafür gelten die Bedingungen von Apple.
+
+## Butties (Gruppen mit Freunden)
+
+Butties ist freiwillig. Ohne Anmeldung wird nichts übertragen.
+
+**Anmeldung:** Du meldest dich mit «Mit Apple anmelden» an. Wir erhalten dabei eine zufällige Nutzer-ID. Deinen Namen und deine E-Mail-Adresse bekommen wir nicht (die App fragt sie bei Apple nicht an).
+
+**Was auf dem Server gespeichert wird:**
+- dein selbst gewählter Spitzname (höchstens 20 Zeichen),
+- das Aussehen deines Butts (Fellfarbe und getragene Items), dein Level und dein Streak,
+- ob du heute trainiert hast, einen Ruhetag hast oder noch offen bist,
+- deine Gruppen: Name der Gruppe, Mitglieder, Einladungscode und kurze Einträge wie «Lea ist beigetreten»,
+- Trainingsvorlagen, die du einem Buttie schickst oder die dir ein Buttie schickt: Name der Vorlage, Name und Satzzahl der Übungen, Absender und Empfänger. Sie liegen höchstens 30 Tage auf dem Server und werden gelöscht, sobald der Empfänger sie übernimmt oder ablehnt. Nur Personen aus deinen Gruppen können dir etwas schicken.
+
+**Was nie übertragen wird:** Gewichte, absolvierte Sätze, Wiederholungen, deinen Trainingsverlauf, Körpergewicht, Ernährung, Schritte und andere Gesundheitsdaten, Notizen und Trainingszeiten.
+
+**Wer es sieht:** Nur die Mitglieder deiner Gruppen sehen deinen Spitznamen, deinen Butt, dein Level, deinen Streak und deinen Tagesstatus. Es gibt keine öffentlichen Profile und keine Suche nach Personen. Eine Gruppe hat höchstens 6 Mitglieder. Wer einen Einladungscode kennt, kann der Gruppe beitreten. Der Code ist 14 Tage gültig und kann erneuert werden.
+
+**Wo und durch wen:** Die Daten liegen bei Google Firebase (Google Cloud) in der Region Zürich (europe-west6). Google handelt als unser Auftragsverarbeiter. Für die Anmeldung mit Apple gilt zusätzlich die Datenschutzerklärung von Apple. Analyse-Dienste von Firebase (Google Analytics) sind ausgeschaltet.
+
+**Löschen:** In den Einstellungen unter «GymButties» kannst du dein Butties-Konto jederzeit löschen. Dabei werden dein Profil, deine Mitgliedschaften, deine Einträge und alle geschickten oder erhaltenen Vorlagen sofort vom Server gelöscht. Gruppen ohne Mitglieder werden mit gelöscht. Gehörte dir eine Gruppe, geht sie an ein anderes Mitglied über. Deine Trainings auf dem iPhone bleiben.
 
 ## Apple Health (Schritte)
 
@@ -49,8 +71,8 @@ Kalorien- und Proteinziele in GymButt sind grobe Richtwerte. Sie ersetzen keine 
 
 ## Deine Rechte
 
-Du kannst Auskunft verlangen, welche Daten wir über dich haben, und ihre Berichtigung oder Löschung verlangen. Da GymButt deine App-Daten nicht an uns schickt, betrifft das praktisch nur TestFlight-Angaben und E-Mails, die du uns schreibst. Schreib dafür an die oben genannte Adresse. Du kannst dich ausserdem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) oder einer Datenschutzbehörde in der EU beschweren.
+Du kannst Auskunft verlangen, welche Daten wir über dich haben, und ihre Berichtigung oder Löschung verlangen. Da GymButt deine Trainingsdaten nicht an uns schickt, betrifft das TestFlight-Angaben, E-Mails, die du uns schreibst, und die Butties-Daten oben. Die Butties-Daten kannst du selbst in der App löschen. Schreib dafür an die oben genannte Adresse. Du kannst dich ausserdem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) oder einer Datenschutzbehörde in der EU beschweren.
 
 ## Änderungen
 
-Wenn GymButt neue Funktionen bekommt, die Daten verarbeiten (zum Beispiel GymButties mit Konto), passen wir diese Erklärung vorher an.
+Wenn GymButt neue Funktionen bekommt, die Daten verarbeiten (zum Beispiel Mitteilungen für Butties), passen wir diese Erklärung vorher an.
