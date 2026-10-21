@@ -39,7 +39,7 @@ Butties ist freiwillig. Ohne Anmeldung wird nichts übertragen.
 - das Aussehen deines Butts (Fellfarbe und getragene Items), dein Level und dein Streak,
 - ob du heute trainiert hast, einen Ruhetag hast oder noch offen bist,
 - deine Gruppen: Name der Gruppe, Mitglieder, Einladungscode und kurze Einträge wie «Lea ist beigetreten»,
-- Trainingsvorlagen, die du einem Buttie schickst oder die dir ein Buttie schickt: Name der Vorlage, Name und Satzzahl der Übungen, Absender und Empfänger. Sie liegen höchstens 30 Tage auf dem Server und werden gelöscht, sobald der Empfänger sie übernimmt oder ablehnt. Nur Personen aus deinen Gruppen können dir etwas schicken.
+- Trainingsvorlagen, die du einem Buttie schickst oder die dir ein Buttie schickt: Name der Vorlage, Name und Satzzahl der Übungen, Absender und Empfänger. Sie liegen höchstens 30 Tage auf dem Server und werden gelöscht, sobald der Empfänger sie übernimmt oder ablehnt. Nur Personen aus deinen Gruppen können dir etwas schicken. Teilst du eine Vorlage mit einer ganzen Gruppe, sehen sie alle Mitglieder der Gruppe, bis du sie entfernst, du die Gruppe verlässt, du dein Konto löschst oder 30 Tage vergangen sind.
 
 **Was nie übertragen wird:** Gewichte, absolvierte Sätze, Wiederholungen, deinen Trainingsverlauf, Körpergewicht, Ernährung, Schritte und andere Gesundheitsdaten, Notizen und Trainingszeiten.
 
