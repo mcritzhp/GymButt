@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GymButt · Einladung</title>
+<meta name="robots" content="noindex">
+<style>
+  :root { --bg: #F3E7D3; --card: #FFFBF4; --ink: #1F2B28; --muted: #5E6B66; --accent: #2F5F57; --line: #E2D3B8; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #151C1A; --card: #1F2826; --ink: #EDE6DD; --muted: #A6B5AF; --accent: #8FB7A9; --line: #33403C; } }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  main { max-width: 440px; margin: 0 auto; padding: 32px 16px; }
+  h1 { font-size: 30px; margin: 0 0 8px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 20px; margin-top: 20px; }
+  .code { font-size: 34px; font-weight: 700; letter-spacing: 4px; text-align: center; margin: 8px 0; }
+  a.btn { display: block; text-align: center; background: var(--accent); color: var(--card); text-decoration: none; font-weight: 600; padding: 14px; border-radius: 12px; margin-top: 12px; }
+  a.btn.secondary { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); }
+  p.muted { color: var(--muted); font-size: 15px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Du bist eingeladen 🍑</h1>
+  <p>Jemand möchte mit dir in GymButt trainieren. Eure Butts stehen dann nebeneinander, ohne Rangliste.</p>
+  <div class="card">
+    <p class="muted">Dein Einladungscode</p>
+    <div class="code" id="code">–</div>
+    <a class="btn" id="open" href="gymbutt://">In GymButt öffnen</a>
+    <p class="muted">Klappt das nicht? Öffne GymButt, tippe unten auf <b>Butties</b> und dann auf <b>Mit Code beitreten</b>.</p>
+  </div>
+  <div class="card">
+    <p><b>Noch keine App?</b> GymButt ist in der Testphase. Du bekommst sie gratis über TestFlight von Apple.</p>
+    <a class="btn secondary" href="https://apps.apple.com/app/testflight/id899247664">1. TestFlight laden</a>
+    <a class="btn secondary" href="https://testflight.apple.com/join/sYu1XBN5">2. GymButt installieren</a>
+  </div>
+</main>
+<script>
+  // Nur Buchstaben und Ziffern aus dem Link übernehmen, sonst nichts
+  var c = (new URLSearchParams(location.search).get('c') || '').toUpperCase().replace(/[^A-Z0-9]/g, '').slice(0, 6);
+  if (c.length === 6) {
+    document.getElementById('code').textContent = c.slice(0, 3) + '-' + c.slice(3);
+    document.getElementById('open').href = 'gymbutt://join/' + c;
+  }
+</script>
+</body>
+</html>
