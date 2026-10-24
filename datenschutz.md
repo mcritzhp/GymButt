@@ -12,7 +12,7 @@ Diese Erklärung gilt für die iPhone-App GymButt, auch für Testversionen über
 ## Kurz gesagt
 
 - Ein Konto gibt es nur, wenn du die Funktion **Butties** (Gruppen mit Freunden) nutzt. Ohne Butties bleibt GymButt komplett auf deinem iPhone.
-- Training, Gewichte, Körpergewicht, Ernährung, Schritte und Notizen bleiben immer auf deinem iPhone.
+- Training, Gewichte, Körpergewicht, Ernährung, Schritte, Cardio aus Apple Health und Notizen bleiben immer auf deinem iPhone.
 - Mit Butties teilst du nur wenige Angaben mit den Personen in deiner Gruppe (siehe unten).
 - Es gibt keine Werbung, kein Tracking und keine Analyse-Tools.
 - Wir verkaufen keine Daten und geben keine weiter.
@@ -36,7 +36,7 @@ Butties ist freiwillig. Ohne Anmeldung wird nichts übertragen.
 
 **Was auf dem Server gespeichert wird:**
 - dein selbst gewählter Spitzname (höchstens 20 Zeichen),
-- das Aussehen deines Butts (Fellfarbe und getragene Items), dein Level und dein Streak,
+- das Aussehen deines Butts (Fellfarbe, getragene Items und deren Farben), dein Level und dein Streak,
 - ob du heute trainiert hast, einen Ruhetag hast oder noch offen bist, dazu für die letzten 2 und die nächsten 7 Tage nur diese drei Angaben (trainiert, Ruhetag oder offen). Daraus berechnet der Server den gemeinsamen Streak deiner Gruppe. Er speichert pro Gruppe und Tag, wer trainiert hat, einen Ruhetag hatte oder offen war, und löscht diese Tage nach 30 Tagen,
 - deine Gruppen: Name der Gruppe, Mitglieder, Einladungscode und kurze Einträge wie «Lea ist beigetreten»,
 - Trainingsvorlagen, die du einem Buttie schickst oder die dir ein Buttie schickt: Name der Vorlage, Name und Satzzahl der Übungen, Absender und Empfänger. Sie liegen höchstens 30 Tage auf dem Server und werden gelöscht, sobald der Empfänger sie übernimmt oder ablehnt. Nur Personen aus deinen Gruppen können dir etwas schicken. Teilst du eine Vorlage mit einer ganzen Gruppe, sehen sie alle Mitglieder der Gruppe, bis du sie entfernst, du die Gruppe verlässt, du dein Konto löschst oder 30 Tage vergangen sind.
@@ -49,9 +49,9 @@ Butties ist freiwillig. Ohne Anmeldung wird nichts übertragen.
 
 **Löschen:** In den Einstellungen unter «GymButties» kannst du dein Butties-Konto jederzeit löschen. Dabei werden dein Profil, deine Mitgliedschaften, deine Einträge und alle geschickten oder erhaltenen Vorlagen sofort vom Server gelöscht. Gruppen ohne Mitglieder werden mit gelöscht. Gehörte dir eine Gruppe, geht sie an ein anderes Mitglied über. Deine Trainings auf dem iPhone bleiben.
 
-## Apple Health (Schritte)
+## Apple Health (Schritte und Cardio-Trainings)
 
-Wenn du es erlaubst, liest GymButt deine Schrittzahl aus Apple Health. Die App nutzt sie nur, um zu prüfen, ob du dein Tagesziel erreicht hast, und dir dafür XP zu geben. GymButt schreibt nichts in Apple Health. Die Schrittzahl verlässt dein Gerät nicht und wird nicht für Werbung genutzt. Du kannst den Zugriff jederzeit in der Health-App oder unter Einstellungen > Datenschutz > Health widerrufen.
+Wenn du es erlaubst, liest GymButt deine Schrittzahl aus Apple Health. Die App nutzt sie nur, um zu prüfen, ob du dein Tagesziel erreicht hast, und dir dafür XP zu geben. GymButt schreibt nichts in Apple Health. Die Schrittzahl verlässt dein Gerät nicht und wird nicht für Werbung genutzt. Wenn du in den Einstellungen «Cardio aus Apple Health» einschaltest, liest GymButt zusätzlich deine Trainings (Art, Zeitpunkt, Dauer und Strecke von Laufen, Radfahren, Schwimmen und ähnlichen Aktivitäten, nie Krafttraining, Herzfrequenz, Route oder Energie) und legt sie in deinem Verlauf auf dem iPhone ab. Auch diese Daten verlassen dein Gerät nicht; an die Butties geht höchstens der Status «heute trainiert». Du kannst den Zugriff jederzeit in der Health-App oder unter Einstellungen > Datenschutz > Health widerrufen.
 
 ## Mitteilungen und Live-Aktivitäten
 
