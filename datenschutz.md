@@ -1,6 +1,6 @@
 # Datenschutzerklärung GymButt
 
-Stand: 21. Oktober 2026
+Stand: 26. Oktober 2026
 
 ## Wer ist verantwortlich?
 
@@ -24,6 +24,7 @@ Diese Daten speichert GymButt nur lokal auf deinem Gerät:
 - **Trainings:** Übungen, Sätze, Wiederholungen, Gewichte, Pausen, Trainingsvorlagen und Wochenplan.
 - **Fortschritt:** XP, Level, Streak, freigeschaltete Belohnungen und das Aussehen deines Avatars.
 - **Ernährungsprofil:** Ernährungsform (vegan, vegetarisch, alles), Körpergewicht, Ziel, Mahlzeiten pro Tag und Lieblingsrezepte.
+- **Fotos zu Übungen:** Wenn du zu einer Übung ein Foto aus deiner Mediathek hinzufügst, kopiert GymButt es in den eigenen Speicher der App auf deinem iPhone. GymButt greift nur auf die Bilder zu, die du selbst auswählst, nie auf die Kamera, und lädt sie nirgends hoch.
 - **Einstellungen:** Sprache, Einheiten, Erinnerungen.
 
 Wir haben keinen Zugriff auf diese Daten. Wenn du die App löschst, sind sie weg (ein Butties-Konto löschst du vorher in den Einstellungen, siehe unten). Ausnahme: ein Backup deines iPhones über iCloud oder einen Computer. Dafür gelten die Bedingungen von Apple.
@@ -39,6 +40,9 @@ Butties ist freiwillig. Ohne Anmeldung wird nichts übertragen.
 - das Aussehen deines Butts (Fellfarbe, getragene Items und deren Farben), dein Level und dein Streak,
 - ob du heute trainiert hast, einen Ruhetag hast oder noch offen bist, dazu für die letzten 2 und die nächsten 7 Tage nur diese drei Angaben (trainiert, Ruhetag oder offen). Daraus berechnet der Server den gemeinsamen Streak deiner Gruppe. Er speichert pro Gruppe und Tag, wer trainiert hat, einen Ruhetag hatte oder offen war, und löscht diese Tage nach 30 Tagen,
 - deine Gruppen: Name der Gruppe, Mitglieder, Einladungscode und kurze Einträge wie «Lea ist beigetreten»,
+- Anfeuern: wer wen an welchem Tag angefeuert hat (für die Grenze «einmal pro Tag», nach 2 Tagen gelöscht) und ein Eintrag in der Aktivität der Gruppe,
+- für Mitteilungen ein Gerätekennzeichen von Firebase Cloud Messaging (Google) und die Sprache der App. Nur der Server kann dir damit eine Mitteilung schicken («Lea feuert dich an»). Du kannst Mitteilungen in den Einstellungen unter Butties ausschalten, dann wird das Kennzeichen gelöscht,
+- für die Challenge der Woche pro Person genau eine Zahl, zum Beispiel «12» (Sätze Beine diese Woche), «2» (Trainings) oder «35» (Minuten Cardio). Challenges werden nach 8 Wochen gelöscht,
 - Trainingsvorlagen, die du einem Buttie schickst oder die dir ein Buttie schickt: Name der Vorlage, Name und Satzzahl der Übungen, Absender und Empfänger. Sie liegen höchstens 30 Tage auf dem Server und werden gelöscht, sobald der Empfänger sie übernimmt oder ablehnt. Nur Personen aus deinen Gruppen können dir etwas schicken. Teilst du eine Vorlage mit einer ganzen Gruppe, sehen sie alle Mitglieder der Gruppe, bis du sie entfernst, du die Gruppe verlässt, du dein Konto löschst oder 30 Tage vergangen sind.
 
 **Was nie übertragen wird:** Gewichte, absolvierte Sätze, Wiederholungen, deinen Trainingsverlauf, Körpergewicht, Ernährung, Schritte und andere Gesundheitsdaten, Notizen und Trainingszeiten.
@@ -75,4 +79,4 @@ Du kannst Auskunft verlangen, welche Daten wir über dich haben, und ihre Berich
 
 ## Änderungen
 
-Wenn GymButt neue Funktionen bekommt, die Daten verarbeiten (zum Beispiel Mitteilungen für Butties), passen wir diese Erklärung vorher an.
+Wenn GymButt neue Funktionen bekommt, die Daten verarbeiten, passen wir diese Erklärung vorher an.
