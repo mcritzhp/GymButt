@@ -16,6 +16,7 @@ Diese Erklärung gilt für die iPhone-App GymButt, auch für Testversionen über
 - Mit Butties teilst du nur wenige Angaben mit den Personen in deiner Gruppe (siehe unten).
 - Es gibt keine Werbung, kein Tracking und keine Analyse-Tools.
 - Wir verkaufen keine Daten und geben keine weiter.
+- **GymButt Pro** kaufst du über Apple. Zahlungsdaten sehen wir nie.
 
 ## Welche Daten die App speichert
 
@@ -53,6 +54,15 @@ Butties ist freiwillig. Ohne Anmeldung wird nichts übertragen.
 
 **Löschen:** In den Einstellungen unter «GymButties» kannst du dein Butties-Konto jederzeit löschen. Dabei werden dein Profil, deine Mitgliedschaften, deine Einträge und alle geschickten oder erhaltenen Vorlagen sofort vom Server gelöscht. Gruppen ohne Mitglieder werden mit gelöscht. Gehörte dir eine Gruppe, geht sie an ein anderes Mitglied über. Deine Trainings auf dem iPhone bleiben.
 
+## GymButt Pro (Abo)
+
+GymButt Pro ist ein freiwilliges Abo, das du in der App über Apple abschliesst (In-App-Kauf).
+
+- **Bezahlung:** Kauf, Zahlung, Verlängerung und Kündigung laufen vollständig über dein Apple-Konto. Wir erhalten weder deinen Namen noch deine E-Mail-Adresse noch Zahlungsdaten. Es gilt die Datenschutzerklärung von Apple.
+- **Prüfung in der App:** Die App fragt beim Start über Apple (StoreKit) direkt auf deinem iPhone, ob ein Abo aktiv ist, und merkt sich nur «Pro aktiv» oder «nicht aktiv», damit Pro auch ohne Internet funktioniert. Dafür gibt es keinen eigenen Server, und der Kauf ist nicht mit einem Butties-Konto verknüpft.
+- **Was wir sehen:** Apple stellt uns in App Store Connect zusammengefasste Verkaufs- und Abo-Zahlen zur Verfügung (zum Beispiel Anzahl Abos pro Land). Daraus können wir keine einzelne Person erkennen.
+- **Kündigen:** Du kündigst jederzeit in den iOS-Einstellungen unter deinem Namen > Abonnements, spätestens 24 Stunden vor Ablauf. Mit «Käufe wiederherstellen» holst du ein bestehendes Abo auf ein neues Gerät.
+
 ## Apple Health (Schritte und Cardio-Trainings)
 
 Wenn du es erlaubst, liest GymButt deine Schrittzahl aus Apple Health. Die App nutzt sie nur, um zu prüfen, ob du dein Tagesziel erreicht hast, und dir dafür XP zu geben. GymButt schreibt nichts in Apple Health. Die Schrittzahl verlässt dein Gerät nicht und wird nicht für Werbung genutzt. Wenn du in den Einstellungen «Cardio aus Apple Health» einschaltest, liest GymButt zusätzlich deine Trainings (Art, Zeitpunkt, Dauer und Strecke von Laufen, Radfahren, Schwimmen und ähnlichen Aktivitäten, nie Krafttraining, Herzfrequenz, Route oder Energie) und legt sie in deinem Verlauf auf dem iPhone ab. Auch diese Daten verlassen dein Gerät nicht; an die Butties geht höchstens der Status «heute trainiert». Du kannst den Zugriff jederzeit in der Health-App oder unter Einstellungen > Datenschutz > Health widerrufen.
@@ -75,7 +85,7 @@ Kalorien- und Proteinziele in GymButt sind grobe Richtwerte. Sie ersetzen keine 
 
 ## Deine Rechte
 
-Du kannst Auskunft verlangen, welche Daten wir über dich haben, und ihre Berichtigung oder Löschung verlangen. Da GymButt deine Trainingsdaten nicht an uns schickt, betrifft das TestFlight-Angaben, E-Mails, die du uns schreibst, und die Butties-Daten oben. Die Butties-Daten kannst du selbst in der App löschen. Schreib dafür an die oben genannte Adresse. Du kannst dich ausserdem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) oder einer Datenschutzbehörde in der EU beschweren.
+Du kannst Auskunft verlangen, welche Daten wir über dich haben, und ihre Berichtigung oder Löschung verlangen. Da GymButt deine Trainingsdaten nicht an uns schickt, betrifft das TestFlight-Angaben, E-Mails, die du uns schreibst, und die Butties-Daten oben. Zu Käufen und Abos hat Apple die Daten, nicht wir. Die Butties-Daten kannst du selbst in der App löschen. Schreib dafür an die oben genannte Adresse. Du kannst dich ausserdem beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) oder einer Datenschutzbehörde in der EU beschweren.
 
 ## Änderungen
 
