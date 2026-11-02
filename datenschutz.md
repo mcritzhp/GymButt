@@ -1,6 +1,6 @@
 # Datenschutzerklärung GymButt
 
-Stand: 26. Oktober 2026
+Stand: 2. November 2026
 
 ## Wer ist verantwortlich?
 
@@ -13,6 +13,7 @@ Diese Erklärung gilt für die iPhone-App GymButt, auch für Testversionen über
 
 - Ein Konto gibt es nur, wenn du die Funktion **Butties** (Gruppen mit Freunden) nutzt. Ohne Butties bleibt GymButt komplett auf deinem iPhone.
 - Training, Gewichte, Körpergewicht, Ernährung, Schritte, Cardio aus Apple Health und Notizen bleiben immer auf deinem iPhone.
+- Strava ist freiwillig. Verbindest du es, schickt GymButt ein Training erst dann an Strava, wenn du es selbst auslöst.
 - Mit Butties teilst du nur wenige Angaben mit den Personen in deiner Gruppe (siehe unten).
 - Es gibt keine Werbung, kein Tracking und keine Analyse-Tools.
 - Wir verkaufen keine Daten und geben keine weiter.
@@ -66,6 +67,16 @@ GymButt Pro ist ein freiwilliges Abo, das du in der App über Apple abschliesst 
 ## Apple Health (Schritte und Cardio-Trainings)
 
 Wenn du es erlaubst, liest GymButt deine Schrittzahl aus Apple Health. Die App nutzt sie nur, um zu prüfen, ob du dein Tagesziel erreicht hast, und dir dafür XP zu geben. GymButt schreibt nichts in Apple Health. Die Schrittzahl verlässt dein Gerät nicht und wird nicht für Werbung genutzt. Wenn du in den Einstellungen «Cardio aus Apple Health» einschaltest, liest GymButt zusätzlich deine Trainings (Art, Zeitpunkt, Dauer und Strecke von Laufen, Radfahren, Schwimmen und ähnlichen Aktivitäten, nie Krafttraining, Herzfrequenz, Route oder Energie) und legt sie in deinem Verlauf auf dem iPhone ab. Auch diese Daten verlassen dein Gerät nicht; an die Butties geht höchstens der Status «heute trainiert». Du kannst den Zugriff jederzeit in der Health-App oder unter Einstellungen > Datenschutz > Health widerrufen.
+
+## Strava (Trainings an Strava senden)
+
+Strava ist freiwillig. Ohne Verbindung wird nichts an Strava geschickt.
+
+- **Verbinden:** Du meldest dich bei Strava mit deinem eigenen Strava-Konto an und erlaubst GymButt nur das Hochladen von Aktivitäten («activity:write»). GymButt kann damit keine Daten aus deinem Strava-Konto lesen, ausser dem Namen des Kontos, den Strava bei der Anmeldung mitgibt und den die App anzeigt.
+- **Was an Strava geht:** Nur wenn du ein Training an Strava sendest: Name des Trainings, Startzeit, Dauer und die Übungsliste mit Sätzen, Wiederholungen und Gewichten als Text. Bilder oder andere Gesundheitsdaten werden nicht gesendet.
+- **Anmeldedaten:** Die Zugangsdaten (Tokens) liegen verschlüsselt im Schlüsselbund deines iPhones und nur dort. Zum Tausch des Anmeldecodes gegen die Tokens läuft eine Anfrage über unseren Server bei Google Firebase (Region Zürich, europe-west6), weil dafür ein geheimer Schlüssel nötig ist, der nicht in der App liegen darf. Der Server speichert dabei nichts, auch keine Tokens, und braucht dafür kein Butties-Konto.
+- **Bei Strava:** Dort gelten die Datenschutzerklärung und die Bedingungen von Strava (https://www.strava.com/legal/privacy). Was auf Strava sichtbar ist, bestimmen deine Strava-Einstellungen.
+- **Trennen:** In den Einstellungen kannst du Strava jederzeit trennen. GymButt zieht dann den Zugriff bei Strava zurück und löscht die Tokens vom iPhone. Bereits gesendete Aktivitäten löschst du direkt bei Strava. Den Zugriff kannst du auch unter strava.com > Einstellungen > Meine Apps widerrufen.
 
 ## Mitteilungen und Live-Aktivitäten
 
