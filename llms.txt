@@ -1,0 +1,41 @@
+# GymButt
+
+> GymButt is an iPhone app for strength training made in Switzerland. Users log sets, weights and reps; with every workout their avatar "Butt" earns XP, levels up and unlocks new items (caps, hairstyles, glasses, outfits, fur colors). Free without ads or account; data stays on the iPhone. Optional subscription GymButt Pro. Currently in beta via Apple TestFlight. Available in German and English. Not available on Android.
+
+Key facts:
+- Over 300 exercises with figures, instructions and common mistakes; ready-made workouts for beginner, intermediate and pro with bodyweight, free weights or machines
+- Rest timer on the Lock Screen and Dynamic Island, weight suggestions, plate calculator, supersets, cardio with time and distance
+- Streaks with rest days and freezes; weekly and monthly challenges; levels and items are never lost
+- Muscle map, personal records, import from Strong and Hevy (CSV), steps and cardio from Apple Health, send workouts to Strava
+- Butties: private groups of up to 6 people, avatars side by side, no leaderboard, no public profiles (requires Sign in with Apple)
+- Over 100 recipes (vegan, vegetarian, with meat) with a daily protein target
+- GymButt Pro (Apple subscription, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
+- Developer: Moritz Härri, contact gymbutt@outlook.com
+
+## Pages (English)
+
+- [Home](https://gymbutt.ch/en/): overview of the app
+- [Features](https://gymbutt.ch/en/features/): full feature list, free vs. Pro
+- [FAQ](https://gymbutt.ch/en/faq/): price, account, privacy, Android, import, Butties
+- [GymButt vs. Strong vs. Hevy](https://gymbutt.ch/en/compare/): comparison of gym apps
+
+## Guides (English)
+
+- [Beginner workout plan: 3 days a week](https://gymbutt.ch/en/guides/beginner-workout-plan/)
+- [How much protein per day to build muscle?](https://gymbutt.ch/en/guides/protein-per-day/)
+- [Sticking with the gym: 8 tips](https://gymbutt.ch/en/guides/gym-motivation/)
+
+## Seiten (Deutsch)
+
+- [Start](https://gymbutt.ch/)
+- [Funktionen](https://gymbutt.ch/funktionen/)
+- [Häufige Fragen](https://gymbutt.ch/faq/)
+- [Vergleich GymButt, Strong, Hevy](https://gymbutt.ch/vergleich/)
+- [Trainingsplan für Anfänger](https://gymbutt.ch/ratgeber/trainingsplan-anfaenger/)
+- [Protein pro Tag](https://gymbutt.ch/ratgeber/protein-pro-tag/)
+- [Im Gym dranbleiben](https://gymbutt.ch/ratgeber/gym-motivation/)
+
+## Optional
+
+- [Datenschutzerklärung (privacy policy, German)](https://gymbutt.ch/datenschutz.html)
+- [Impressum](https://gymbutt.ch/impressum/)

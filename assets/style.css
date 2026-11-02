@@ -1,0 +1,173 @@
+@font-face { font-family: "Barlow"; src: url("fonts/Barlow_500Medium.ttf") format("truetype"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "Barlow"; src: url("fonts/Barlow_700Bold.ttf") format("truetype"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Barlow Condensed"; src: url("fonts/BarlowCondensed_800ExtraBold.ttf") format("truetype"); font-weight: 800; font-display: swap; }
+
+/* Sticker-Stil (DESIGN-3) in den App-Farben Eukalyptus und Hafermilch.
+   Carbon → Tinte, Papier → Creme, Sky Wash → Hafer, Concrete → Sand, Electric Blue → Eukalyptus.
+   Sticker-Farben aus der App: Salbei, Lavendel (episch), Apricot (Belohnung), Gold (legendär), Tannengrün. */
+:root {
+  --ink: #1C2B27;
+  --paper: #FFFAF1;
+  --oat: #F3E7D3;
+  --sand: #D6C3A3;
+  --euca: #8FB7A9;
+  --pine: #2E5E55;
+  --sage: #DCE8E2;
+  --lavender: #E9DDF5;
+  --apricot: #E8875B;
+  --apricot-soft: #FBE1D3;
+  --gold: #F8E7B0;
+  --muted: #4E5C57;
+  --on-pastel: #1C2B27;
+  --line: 1.5px solid var(--ink);
+  --display: "Barlow Condensed", "Barlow", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #EDE6DD; --paper: #1D2624; --oat: #141B19; --sand: #26302D; --euca: #3F6B60; --pine: #8FB7A9;
+    --muted: #A6B5AF;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--oat); color: var(--ink); font: 500 17px/1.5 "Barlow", -apple-system, sans-serif; letter-spacing: -0.01em; }
+img { max-width: 100%; height: auto; display: block; }
+a { color: inherit; }
+.wrap { max-width: 1440px; margin: 0 auto; padding: 0 16px; }
+@media (min-width: 760px) { .wrap { padding: 0 40px; } }
+p { margin: 0 0 14px; }
+.muted { color: var(--muted); }
+
+/* Laufband oben */
+.marquee { background: var(--ink); color: var(--oat); overflow: hidden; white-space: nowrap; font-weight: 700; font-size: 13px; letter-spacing: .032em; text-transform: uppercase; padding: 9px 0; }
+.marquee .track { display: inline-block; animation: run 38s linear infinite; }
+.marquee span { margin-right: 32px; }
+@keyframes run { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { .marquee .track { animation: none; } }
+
+/* Navigation */
+header.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 0; }
+.logo { display: flex; align-items: center; gap: 10px; text-decoration: none; font: 800 28px/1 var(--display); text-transform: uppercase; }
+.logo .badge { width: 44px; height: 44px; border: var(--line); border-radius: 999px; background: var(--paper); display: grid; place-items: center; overflow: hidden; }
+.logo .badge svg { width: 30px; height: 40px; margin-top: 10px; color: var(--euca); }
+nav.top { display: flex; gap: 4px; align-items: center; }
+.pill { display: inline-block; border: var(--line); border-radius: 999px; background: var(--paper); color: var(--ink); text-decoration: none; font-weight: 700; font-size: 14px; letter-spacing: .032em; padding: 10px 16px; }
+.btn { display: inline-block; border: var(--line); border-radius: 999px; background: var(--ink); color: var(--oat); text-decoration: none; font-weight: 700; font-size: 15px; letter-spacing: .032em; padding: 14px 22px; }
+.btn.ghost { background: var(--paper); color: var(--ink); }
+.pill:hover, .btn.ghost:hover { background: var(--sage); color: var(--on-pastel); }
+.btn:hover { background: var(--pine); }
+a:focus-visible, summary:focus-visible { outline: 3px solid var(--apricot); outline-offset: 3px; }
+
+/* Farbbänder statt Schatten und Linien */
+.band { padding: 72px 0; position: relative; overflow: hidden; }
+.band.oat { background: var(--oat); }
+.band.paper { background: var(--paper); }
+.band.sand { background: var(--sand); }
+.band.euca { background: var(--euca); }
+
+/* Riesige, gestauchte Display-Schrift */
+.display { font: 800 clamp(68px, 13.5vw, 200px)/.8 var(--display); text-transform: uppercase; margin: 0; letter-spacing: 0; }
+.display.md { font-size: clamp(56px, 9vw, 140px); }
+h2 { font: 800 clamp(40px, 5.5vw, 64px)/.9 var(--display); text-transform: uppercase; margin: 0 0 16px; }
+h3 { font-size: 26px; font-weight: 700; line-height: 1.1; margin: 0 0 8px; }
+.tagline { font-size: clamp(20px, 2.2vw, 26px); line-height: 1.25; max-width: 32ch; margin-top: 28px; }
+
+/* Hero mit Schlauch und Stickern */
+.hero { min-height: 640px; }
+.hero .inner { position: relative; z-index: 2; }
+.hero .ctas { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 28px; }
+.hero .fine { margin-top: 16px; font-size: 15px; }
+.tube { position: absolute; z-index: 1; inset: auto -5% -14% auto; width: 110%; height: auto; pointer-events: none; }
+.tube .o { stroke: var(--ink); }
+.tube .f { stroke: var(--euca); }
+.hero-butt { position: absolute; z-index: 3; right: 6%; bottom: 40px; width: clamp(150px, 22vw, 320px); color: var(--euca); }
+.hero-butt svg { width: 100%; height: auto; display: block; }
+
+.sticker { position: absolute; z-index: 3; border: var(--line); border-radius: 20px; display: grid; place-items: center; font: 800 22px/1 var(--display); color: var(--on-pastel); text-transform: uppercase; }
+.sticker svg { width: 56%; height: 56%; }
+.s-flame { width: 84px; height: 84px; background: var(--apricot); transform: rotate(-12deg); }
+.s-crown { width: 78px; height: 78px; background: var(--gold); border-radius: 999px; transform: rotate(9deg); }
+.s-xp { width: 96px; height: 56px; background: var(--lavender); border-radius: 999px; transform: rotate(-6deg); }
+.s-check { width: 64px; height: 64px; background: var(--sage); transform: rotate(14deg); }
+
+/* Kurze Antwort für KI-Suchen */
+.answer { font-size: clamp(22px, 2.6vw, 32px); line-height: 1.25; font-weight: 500; max-width: 38ch; }
+.answer b { font-weight: 700; }
+.label { display: inline-block; border: var(--line); border-radius: 999px; padding: 4px 12px; font-size: 13px; font-weight: 700; letter-spacing: .032em; text-transform: uppercase; margin-bottom: 18px; background: var(--paper); }
+
+/* Karten als Sticker */
+.grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.card { border: var(--line); border-radius: 20px; padding: 24px; color: var(--on-pastel); }
+.card p { color: #3D4A46; margin: 0; }
+.card.sage { background: var(--sage); }
+.card.lav { background: var(--lavender); transform: rotate(-1deg); }
+.card.apr { background: var(--apricot-soft); }
+.card .icon { width: 56px; height: 56px; border: 1.5px solid #1C2B27; border-radius: 16px; display: grid; place-items: center; margin-bottom: 40px; background: #FFFAF1; }
+.card .icon svg { width: 30px; height: 30px; }
+
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
+.phone { border: var(--line); border-radius: 40px; overflow: hidden; max-width: 340px; width: 100%; margin: 0 auto; }
+.shot { border: var(--line); border-radius: 40px; max-width: 420px; width: 100%; margin: 0 auto; transform: rotate(2deg); }
+ul.check { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+ul.check li { border: var(--line); border-radius: 999px; padding: 10px 18px 10px 46px; position: relative; background: var(--paper); }
+ul.check li::before { content: ""; position: absolute; left: 18px; top: 17px; width: 12px; height: 7px; border-left: 2.5px solid var(--pine); border-bottom: 2.5px solid var(--pine); transform: rotate(-45deg); }
+
+details { border: var(--line); border-radius: 20px; padding: 18px 22px; margin-bottom: 8px; background: var(--paper); }
+summary { font-weight: 700; font-size: 19px; cursor: pointer; }
+details p { margin: 10px 0 0; }
+
+/* Download-Karte in Tannengrün */
+.get { display: grid; grid-template-columns: 1.4fr 1fr; border: var(--line); border-radius: 40px; overflow: hidden; background: #2E5E55; color: #FFFAF1; }
+.get .txt { padding: 40px; }
+.get h2 { color: #FFFAF1; }
+.get .btn { background: #FFFAF1; color: #1C2B27; border-color: #1C2B27; }
+.get .art { background: #8FB7A9; border-left: 1.5px solid #1C2B27; display: grid; place-items: end center; padding-top: 32px; color: #DCE8E2; }
+.get .art svg { width: 62%; max-width: 220px; height: auto; margin-bottom: -6px; }
+
+footer { padding: 32px 0 48px; font-size: 15px; }
+footer .row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+
+@media (max-width: 860px) {
+  .split, .grid3, .get { grid-template-columns: 1fr; }
+  .get .art { border-left: 0; border-top: 1.5px solid #1C2B27; }
+  header.top { flex-wrap: wrap; }
+  nav.top { width: 100%; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+  nav.top .pill { flex: none; padding: 8px 14px; }
+  .band.hero { min-height: 0; padding-bottom: 300px; }
+  .hero-butt { right: 10%; bottom: 28px; width: 140px; }
+  .s-flame { width: 64px; height: 64px; top: auto !important; right: auto !important; left: 10%; bottom: 150px; }
+  .s-crown { width: 60px; height: 60px; top: auto !important; right: 48% !important; bottom: 230px; }
+  .s-xp { display: none; }
+  .band { padding: 56px 0; }
+  .get .txt { padding: 28px; }
+}
+
+/* Unterseiten */
+.band.page-head { padding: 48px 0 56px; }
+.page-head .tagline { margin-top: 20px; }
+.crumbs { font-weight: 700; font-size: 14px; letter-spacing: .032em; text-transform: uppercase; margin-bottom: 20px; }
+.crumbs a { text-decoration: none; border-bottom: 1.5px solid currentColor; }
+.narrow { max-width: 820px; }
+.prose h2 { font-size: clamp(30px, 4vw, 42px); margin: 48px 0 12px; }
+.prose h1 + h2, .prose .answer + h2 { margin-top: 40px; }
+.prose p, .prose li { max-width: 68ch; }
+.prose a { text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+ul.plain { padding-left: 20px; margin: 0 0 16px; }
+ul.plain li { margin-bottom: 6px; }
+.table-wrap { overflow-x: auto; border: var(--line); border-radius: 20px; background: var(--paper); }
+table { border-collapse: collapse; width: 100%; font-size: 16px; }
+th, td { text-align: left; padding: 12px 16px; border-bottom: 1px solid var(--sand); vertical-align: top; }
+th { font-weight: 700; letter-spacing: .02em; }
+tbody tr:last-child td { border-bottom: 0; }
+.tip { border: var(--line); border-radius: 20px; background: var(--sage); color: var(--on-pastel); padding: 24px; margin: 40px 0 8px; transform: rotate(-.6deg); }
+.tip p { margin: 0; color: #3D4A46; }
+.sources { font-size: 14px; margin-top: 40px; }
+a.link-card { display: block; text-decoration: none; }
+a.link-card .label { background: #FFFAF1; color: #1C2B27; border-color: #1C2B27; }
+a.link-card:hover { transform: rotate(-1.5deg); }
+.card h3 { color: var(--on-pastel); }
+@media (max-width: 860px) {
+  .band.page-head { padding: 32px 0 40px; }
+  th, td { padding: 10px 12px; font-size: 15px; }
+}
