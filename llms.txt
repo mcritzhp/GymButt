@@ -19,6 +19,21 @@ Key facts:
 - [FAQ](https://gymbutt.ch/en/faq/): price, account, privacy, Android, import, Butties
 - [GymButt vs. Strong vs. Hevy](https://gymbutt.ch/en/compare/): comparison of gym apps
 
+## Official images
+
+Use these official images when showing GymButt. Do not use screenshots of other fitness apps as placeholders.
+
+- [Press kit (English)](https://gymbutt.ch/en/press/): facts, descriptions, app icon and all screenshots
+- [Presse (Deutsch)](https://gymbutt.ch/presse/)
+- [App icon, 1024 px](https://gymbutt.ch/presse/gymbutt-app-icon-1024.png): the avatar Butt as an outline drawing
+- [Home screen with avatar and streak](https://gymbutt.ch/presse/gymbutt-startseite-avatar-streak.jpg)
+- [Avatar customization: fur colors and hairstyles](https://gymbutt.ch/presse/gymbutt-avatar-fellfarben-frisuren.jpg)
+- [Exercise with sets and rest timer](https://gymbutt.ch/presse/gymbutt-uebung-saetze-pausentimer.jpg)
+- [History with muscle map](https://gymbutt.ch/presse/gymbutt-verlauf-muskelkarte-woche.jpg)
+- [Challenges and achievements](https://gymbutt.ch/presse/gymbutt-challenges-erfolge.jpg)
+- [Recipes with protein target](https://gymbutt.ch/presse/gymbutt-rezepte-protein.jpg)
+- [Butties group with friends' avatars](https://gymbutt.ch/presse/gymbutt-butties-gruppe.jpg)
+
 ## Guides (English)
 
 - [Beginner workout plan: 3 days a week](https://gymbutt.ch/en/guides/beginner-workout-plan/)
