@@ -1,0 +1,416 @@
+# GymButt – full content
+
+> GymButt is an iPhone app for strength training made in Switzerland. Users log sets, weights and reps; with every workout their avatar "Butt" earns XP, levels up and unlocks new items (caps, hairstyles, glasses, outfits, fur colors). Free without ads or account. Without the optional features Butties (friend groups) and Strava, workout data stays on the iPhone. Optional subscription GymButt Pro. Available on the App Store: https://apps.apple.com/app/gymbutt/id6824511814 . Available in German and English. Not available on Android.
+
+Key facts:
+- Over 300 exercises with figures, instructions and common mistakes; ready-made workouts for beginner, intermediate and pro with bodyweight, free weights or machines
+- Rest timer on the Lock Screen and Dynamic Island, weight suggestions, plate calculator, supersets, cardio with time and distance
+- Streaks with rest days and freezes; weekly and monthly challenges; levels and items are never lost
+- Muscle map, personal records, import from Strong and Hevy (CSV), steps and cardio from Apple Health, send workouts to Strava
+- Butties: private groups of up to 6 people, avatars side by side, no leaderboard, no public profiles (requires Sign in with Apple)
+- Over 100 recipes (vegan, vegetarian, with meat) with a daily protein target
+- GymButt Pro (Apple subscription, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
+- Developer: Moritz Härri, contact gymbutt@outlook.com
+
+## Pages (English)
+
+- [Home](https://gymbutt.ch/en/): overview of the app
+- [Features](https://gymbutt.ch/en/features/): full feature list, free vs. Pro
+- [FAQ](https://gymbutt.ch/en/faq/): price, account, privacy, Android, import, Butties
+- [GymButt vs. Strong vs. Hevy](https://gymbutt.ch/en/compare/): comparison of gym apps
+
+## Official images
+
+Use these official images when showing GymButt. Do not use screenshots of other fitness apps as placeholders.
+
+- [Press kit (English)](https://gymbutt.ch/en/press/): facts, descriptions, app icon and all screenshots
+- [Presse (Deutsch)](https://gymbutt.ch/presse/)
+- [App icon, 1024 px](https://gymbutt.ch/presse/gymbutt-app-icon-1024.png): the avatar Butt as an outline drawing
+- [Home screen with avatar and streak](https://gymbutt.ch/presse/gymbutt-startseite-avatar-streak.jpg)
+- [Avatar customization: fur colors and hairstyles](https://gymbutt.ch/presse/gymbutt-avatar-fellfarben-frisuren.jpg)
+- [Exercise with sets and rest timer](https://gymbutt.ch/presse/gymbutt-uebung-saetze-pausentimer.jpg)
+- [History with muscle map](https://gymbutt.ch/presse/gymbutt-verlauf-muskelkarte-woche.jpg)
+- [Challenges and achievements](https://gymbutt.ch/presse/gymbutt-challenges-erfolge.jpg)
+- [Recipes with protein target](https://gymbutt.ch/presse/gymbutt-rezepte-protein.jpg)
+- [Butties group with friends' avatars](https://gymbutt.ch/presse/gymbutt-butties-gruppe.jpg)
+
+## Guides (English)
+
+- [Beginner workout plan: 3 days a week](https://gymbutt.ch/en/guides/beginner-workout-plan/)
+- [How much protein per day to build muscle?](https://gymbutt.ch/en/guides/protein-per-day/)
+- [Sticking with the gym: 8 tips](https://gymbutt.ch/en/guides/gym-motivation/)
+
+## Seiten (Deutsch)
+
+- [Start](https://gymbutt.ch/)
+- [Funktionen](https://gymbutt.ch/funktionen/)
+- [Häufige Fragen](https://gymbutt.ch/faq/)
+- [Vergleich GymButt, Strong, Hevy](https://gymbutt.ch/vergleich/)
+- [Trainingsplan für Anfänger](https://gymbutt.ch/ratgeber/trainingsplan-anfaenger/)
+- [Protein pro Tag](https://gymbutt.ch/ratgeber/protein-pro-tag/)
+- [Im Gym dranbleiben](https://gymbutt.ch/ratgeber/gym-motivation/)
+
+## Optional
+
+- [Privacy policy](https://gymbutt.ch/en/privacy/)
+- [Datenschutzerklärung](https://gymbutt.ch/datenschutz.html)
+- [Impressum](https://gymbutt.ch/impressum/)
+- Full text of all English pages: https://gymbutt.ch/llms-full.txt
+
+## https://gymbutt.ch/en/compare/
+
+GymButt vs. Strong vs. Hevy
+Three gym apps, three ideas. Which one fits you?
+In short
+Strong is a minimal workout log, Hevy a tracker with a social feed. GymButt is for people who need motivation: an avatar gets new items with every workout, friends train in small groups without a leaderboard, and your data stays on your iPhone without an account.
+At a glance
+GymButt Strong Hevy
+Sets, weights, reps Yes Yes Yes
+Platform iPhone iPhone, Android iPhone, Android
+Avatar with items and levels Yes No No
+Social Groups of up to 6, no leaderboard – Feed with followers
+Recipes and protein target Yes No No
+Use without an account Yes – –
+Import from the other apps Strong and Hevy – –
+Details about Strong and Hevy to the best of our knowledge, as of November 2026. "–" means not checked or not the app's focus.
+When GymButt fits
+When you know what you want to do at the gym but don't always go. GymButt rewards every workout with XP and new items for Butt, protects your streak with rest days and freezes, and the muscle map shows what fell short this week. If you train with friends, Butties shows who has already been, without comparing yourself to strangers.
+When Strong fits
+When you want a quick, no-frills log and don't need extras.
+When Hevy fits
+When you want to share your workouts publicly and follow others.
+Switch without losing data
+Export your workouts from Strong or Hevy as a CSV file and open it in GymButt under Settings › Import. GymButt calculates your records and weight suggestions from the imported history.
+Questions about the comparison
+What's the difference between GymButt, Strong and Hevy?
+All three log strength training with sets, weights and reps. Strong is minimal and focused on logging, Hevy has a social feed with followers. GymButt focuses on motivation: an avatar gets new items with every workout, friends train in small groups without a leaderboard, and there are recipes with a protein target.
+Can I switch from Strong or Hevy to GymButt?
+Yes. GymButt imports the CSV export files from Strong and Hevy. Your workouts show up in the history and count toward records and weight suggestions.
+Which gym app is best for beginners?
+For beginners who struggle with motivation, GymButt is a good fit: ready-made beginner workouts, over 300 exercises with figures and instructions, and a streak with rest days that doesn't punish breaks. If you just want to jot down numbers quickly, Strong works well too.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/faq/
+
+FAQ
+Everything important about GymButt, answered briefly.
+What is GymButt?
+GymButt is an iPhone app for strength training. You log sets, weights and reps, and with every workout your avatar Butt earns XP, levels up and unlocks new outfits, hairstyles and items.
+Is GymButt free?
+Yes. Workouts, over 300 exercises, templates, the avatar, streaks and history are free and ad-free. The optional GymButt Pro subscription adds extra features.
+What does GymButt Pro include?
+Pro adds workout generation, weekly and monthly reports, the strength check, a nutrition profile with daily needs and macros, all recipes and up to three Butties groups. The subscription runs through Apple and comes with a 7-day free trial.
+Do I need an account?
+No. Without an account your workout data stays on your iPhone. You only need an account via Sign in with Apple for Butties, the groups with friends.
+What happens to my data?
+Workouts, weights, body weight, nutrition and Apple Health data stay on your iPhone. There are no ads, no tracking and no analytics tools. Without Butties and Strava, nothing leaves your iPhone. In Butties, only members of your groups see your nickname, your Butt, level, streak, whether you trained today and your number for the weekly challenge (e.g. 12 leg sets). Weights and health data don't go to Butties. If you send a workout to Strava, exercises, sets, reps and weights go to Strava. The privacy policy has all the details.
+Is GymButt available on Android?
+Not yet. GymButt currently runs on iPhone only.
+Where can I get GymButt?
+GymButt is free on the App Store, for iPhone. The core features are free, without ads and without an account. The optional GymButt Pro subscription adds more.
+How does Butt get new items?
+Every workout earns XP. New levels, achievements like a streak record or new personal bests, weekly challenges and the monthly challenge unlock caps, hairstyles, glasses, outfits and fur colors.
+What happens if I take a break?
+Rest days are planned in and don't hurt your streak, and there are freezes too. After several days without any movement Butt gets lazy and slumps on the couch. Levels and items are never lost, and one workout cheers Butt right up.
+Is GymButt good for beginners?
+Yes. There are ready-made beginner workouts with bodyweight, free weights or machines. Every exercise has a figure, short instructions and common mistakes.
+Can I import my data from Strong or Hevy?
+Yes. Import the CSV export from Strong or Hevy in the settings. Imported workouts show up in your history and count toward records and weight suggestions.
+What are Butties?
+Butties are small groups of up to six people. Your avatars stand side by side, you see who trained this week and can cheer each other on. There is deliberately no leaderboard and no public profiles.
+Does GymButt work with Strava and Apple Health?
+Yes. Steps and cardio workouts come from Apple Health. You can send a strength workout to Strava if you want, with duration and exercise list.
+Can I log cardio?
+Yes. Treadmill, rowing machine, cycling and more with time and distance, and the stair climber with floors.
+Which languages is GymButt available in?
+German and English.
+Who makes GymButt?
+GymButt is developed by Moritz Härri in Switzerland. Contact: gymbutt@outlook.com.
+Another question? Write to gymbutt@outlook.com .
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/features/
+
+Features
+Everything you need at the gym, plus an avatar that makes sure you come back.
+In short
+GymButt logs strength training, cardio and steps and rewards every workout with XP, levels and new items for the avatar Butt. The core features are free, with no account and no ads.
+Train
+Ready-made workouts for beginner, intermediate and pro
+With bodyweight, free weights or machines
+Over 300 exercises with a figure, instructions and common mistakes
+Muscle figure with primary and secondary muscles per exercise
+Your own templates and exercises
+Weight suggestion for next time
+Plate calculator and supersets
+Rest timer on the Lock Screen and in the Dynamic Island
+Cardio with time and distance, stair climber with floors
+Butt, your avatar
+Every workout earns XP. Each level and achievement unlocks new items: caps, hairstyles, glasses, outfits and fur colors. Over time Butt looks funnier and funnier.
+Streaks with rest days and freezes
+Weekly challenges and monthly challenges with their own item
+Moods: Butt only slumps on the couch after several days without movement
+Levels and items are never lost
+See your progress
+History with calendar and weekly plan
+Muscle map: which muscles you hit this week
+Personal records and history per exercise
+Step goal from Apple Health
+Import from Strong and Hevy (CSV)
+Share a workout as an image or send it to Strava
+Butties
+Groups of up to six people. Your avatars stand side by side, you see who has trained, cheer each other on and share templates. Deliberately no leaderboard and no public profiles. Butties needs an account via Sign in with Apple.
+Food that fits your goal
+Over 100 simple recipes, vegan, vegetarian or with meat. Plus a daily protein target based on your weight and goal, a shopping list and a cooking mode with timers.
+Recipes: over 100 dishes with protein and calories, matching ones are marked
+Shopping list: nutrition per serving, amounts scaled to the number of servings
+Cooking mode: step by step with amounts and a timer
+Nutrition profile (Pro): your weight and goal become protein and calories per day and per meal
+The app interface in the screenshots is in German.
+Analytics with Pro
+GymButt Pro shows you in more detail how your training is going: weekly and monthly reports, a strength level per exercise and workouts that build themselves.
+Weekly and monthly report: comparison with previous weeks, sets per muscle and a focus for next week
+Strength check: a strength level per exercise, goals with a forecast and what helps on a plateau
+Volume trends: workouts and volume over weeks, months or all time, plus a recap and CSV export
+Generate a workout: pick muscle groups, duration and level, and the workout is ready
+The app interface in the screenshots is in German.
+Free and Pro
+Feature Free Pro
+Workouts, exercises, templates, rest timer Yes Yes
+Avatar, streaks, challenges, items Yes Yes
+Streak jokers 1 per month 2 per month
+History, records, muscle map Yes Yes
+Butties groups 1 group up to 3 groups
+Recipes 5 per diet all
+Generate a workout – Yes
+Weekly and monthly report, strength check – Yes
+Strength levels and goals, recovery per muscle – Yes
+Volume trends, recap, CSV export – Yes
+Nutrition profile with daily needs and macros – Yes
+GymButt Pro is a subscription through Apple with a 7-day free trial. There are no ads in any version.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/beginner-workout-plan/
+
+Guides › Training
+Beginner workout plan
+3 days a week, two alternating full-body plans, about 45 minutes per workout.
+In short
+As a beginner, train your whole body three times a week , for example Monday, Wednesday and Friday. Alternate between plan A and plan B, do 3 sets of 8 to 12 reps and add weight once you hit 12 in every set.
+Why full body?
+As a beginner you learn movements fastest by practicing them often. With a full-body plan every muscle group gets worked two to three times a week, and one missed session doesn't throw you off. The WHO recommends that adults train all major muscle groups on at least two days a week.
+Plan A
+Exercise Sets × reps Rest
+Goblet squat 3 × 8–12 90 s
+Bench press or push-ups 3 × 8–12 90 s
+Seated cable row 3 × 8–12 90 s
+Dumbbell shoulder press 2 × 10–12 60 s
+Plank 3 × 20–40 s 45 s
+Plan B
+Exercise Sets × reps Rest
+Dumbbell Romanian deadlift 3 × 8–12 90 s
+Lat pulldown 3 × 8–12 90 s
+Lunges 2 × 10 per leg 60 s
+Incline dumbbell press 3 × 8–12 90 s
+Dead bug 3 × 10 per side 45 s
+What a week looks like
+Week 1: Monday A, Wednesday B, Friday A. Week 2: Monday B, Wednesday A, Friday B. Rest days in between, where a walk or an easy bike ride is enough.
+How heavy?
+Pick a weight where the last two reps are hard but clean. Once you hit 12 reps in every set, add about 2.5 kg (5 lb) next time and start again at 8. That way you progress step by step without guessing.
+Common beginner mistakes
+Starting too heavy: technique first, the weight will follow.
+Doing something different every time: stick with one plan for 8 to 12 weeks or you won't see progress.
+Not logging: without notes you won't remember next week what you lifted.
+Skipping rest days: muscles grow during recovery, not during the workout.
+With GymButt
+GymButt has ready-made beginner workouts with bodyweight, free weights or machines. It shows a figure with instructions for every exercise, remembers your last weight and suggests when to go heavier. Rest days count toward your streak, and Butt earns XP and new items for every workout.
+FAQ
+How often should beginners work out?
+Two to three full-body workouts a week with at least one rest day in between is plenty at first. The WHO recommends muscle-strengthening activity on at least two days a week for adults.
+How many sets and reps for beginners?
+A good start is 2 to 3 sets per exercise with 8 to 12 reps and 1 to 2 minutes of rest. The weight is right when the last two reps are hard but clean.
+When should I increase the weight?
+Once you hit 12 clean reps in every set, add about 2.5 kg (5 lb) next time, or the next step on dumbbells, and start again at 8.
+Source: WHO Guidelines on Physical Activity and Sedentary Behaviour (2020). This plan doesn't replace advice for pain or medical conditions.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/gym-motivation/
+
+Guides › Motivation
+Sticking with the gym
+Motivation is a bad training plan. These eight habits work even on tired days.
+In short
+People who stick with it don't rely on motivation but on fixed training days, a small minimum goal and planned rest days . A missed workout isn't a problem as long as the next one happens. Friends and visible progress make it easier.
+1. Fixed days instead of "when I have time"
+Pick two or three days and put them in your calendar like an appointment. "Monday, Wednesday, Friday after work" is easier to keep than "three times a week".
+2. A minimum goal that always works
+On bad days the rule is: 20 minutes or three exercises. Once you're changed and at the gym, you usually do more. And if not, you still hit your minimum.
+3. Plan your rest days
+A plan without breaks falls apart at the first cold. Planned rest days are part of training and don't feel like failure.
+4. Never miss twice in a row
+Missing a workout happens. In a study on habit formation (Lally et al., 2010), a single missed day didn't disrupt the habit. What matters is the next session.
+5. Decide the workout in advance
+If you only figure out at the gym what to do today, you lose time and energy. A fixed plan with exercises and weights makes the decision for you.
+6. Make progress visible
+Muscles grow slowly, numbers don't. Seeing your deadlift go from 40 to 60 kg brings you back next week.
+7. Train with friends
+People cancel plans with others less often than plans with themselves. It doesn't have to be the same gym: it's enough to see that the others have already trained today.
+8. Small rewards
+A check mark in the calendar, a streak or a new item for your avatar: small, immediate rewards make the start easier until training runs on its own.
+With GymButt
+GymButt is built around these ideas: a weekly plan with rest days, streaks with freezes, reminders only on training days, history with records and Butties groups with friends. For every workout, Butt earns XP and new items like caps, hairstyles and outfits.
+FAQ
+What should I do when I have no motivation for the gym?
+Don't rely on motivation. Rely on fixed training days and a small minimum goal, for example just 20 minutes. Most of the time you end up training longer. Planned rest days, a training partner and visible progress help too.
+How long does it take for exercise to become a habit?
+In a study by Lally et al. (2010) it took 66 days on average for a new behavior to become automatic, with a wide range from 18 to 254 days. Missing a single day didn't break the habit.
+Is it bad to miss a workout?
+No. A single missed day hardly matters. What counts is training again at the next planned session. Just don't miss two workouts in a row.
+Source: Lally P et al., European Journal of Social Psychology 2010, "How are habits formed: Modelling habit formation in the real world".
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/
+
+Guides
+Short, honest answers to the questions everyone has in their first year at the gym.
+Training
+Beginner workout plan: 3 days a week
+A simple full-body plan with two alternating workouts, sets, reps and when to add weight.
+Nutrition
+How much protein per day to build muscle?
+What the research says, how to work out your needs and what that looks like on your plate.
+Motivation
+Sticking with the gym: 8 tips that actually help
+Why motivation isn't enough and which habits get you to the gym even on tired days.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/protein-per-day/
+
+Guides › Nutrition
+Protein per day
+How much you really need to build muscle, and what that looks like on your plate.
+In short
+With strength training, about 1.6 g of protein per kg of body weight per day (0.7 g per lb) is enough. Up to 2.2 g per kg can make sense, especially while dieting. More brings hardly any extra muscle. Without training, the general recommendation for adults is 0.8 g per kg.
+What the research says
+A large analysis of 49 studies (Morton et al., 2018) found that extra protein improves muscle gains from strength training, but the effect levels off at around 1.6 g per kg per day. The International Society of Sports Nutrition recommends 1.4 to 2.0 g per kg for people who exercise. While dieting, the upper end helps preserve muscle.
+How to work out your needs
+Body weight 1.6 g/kg 2.0 g/kg
+55 kg (121 lb) 88 g 110 g
+65 kg (143 lb) 104 g 130 g
+75 kg (165 lb) 120 g 150 g
+85 kg (187 lb) 136 g 170 g
+95 kg (209 lb) 152 g 190 g
+Spread it over your meals
+Three to four meals with 25 to 40 g of protein each are easier than one huge portion at night. Example for about 120 g:
+Breakfast: 250 g low-fat quark or skyr with berries and oats (about 35 g)
+Lunch: lentil bowl with tofu (about 35 g)
+Snack: 2 eggs and a yogurt (about 20 g)
+Dinner: salmon or chicken with rice and vegetables (about 35 g)
+Vegan or vegetarian?
+Works just as well. Combine legumes, tofu, tempeh, seitan and grains over the day and you get all the amino acids. Plant protein is slightly less well absorbed, so aim for the upper value.
+With GymButt
+GymButt calculates your daily protein target from your body weight and goal (2.0 g per kg to build muscle or lose weight, 1.6 g per kg to maintain) and has over 100 simple recipes, vegan, vegetarian or with meat, with a shopping list and cooking mode.
+FAQ
+How much protein do I need per day to build muscle?
+If you do strength training, you need about 1.6 g of protein per kg of body weight per day (about 0.7 g per lb). Research shows little extra muscle gain above roughly 2.2 g per kg.
+How much protein is that at 70 kg?
+At 70 kg (154 lb), 1.6 g per kg is about 112 g of protein per day, spread over three to four meals with 25 to 40 g each.
+Do I need protein powder?
+No. Protein powder is convenient but not necessary. Quark or skyr, yogurt, eggs, legumes, tofu, fish and meat are enough if every meal has a protein source.
+Sources: Morton RW et al., British Journal of Sports Medicine 2018, "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength". Jäger R et al., Journal of the International Society of Sports Nutrition 2017, "Position stand: protein and exercise". If you have kidney disease, check with a doctor first.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/
+
+Off the couch, into the gym
+GymButt is the gym app for iPhone where your avatar gets new outfits and items with every workout.
+Download free
+All features
+No account · no ads · workouts stay on your iPhone
++100 XP
+In short
+GymButt is a workout tracker for strength training with over 300 exercises, a rest timer and weight suggestions. On top of that there's Butt: every workout earns XP, a new level and items like caps, hairstyles and fur colors. It keeps you going when motivation runs low.
+Three reasons to keep going
+Stress-free at the gym
+Ready-made workouts for beginners to pros, over 300 exercises with instructions, a rest timer on your Lock Screen and the weight to use next time.
+Streaks with rest days
+Rest days and freezes protect your streak. Butt only gets lazy after several days without any movement, and one workout brings Butt right back.
+Muscle map and records
+See which muscles you trained this week, track records per exercise and import your history from Strong or Hevy.
+Built for the bench
+Big buttons, few taps per set
+Your last weight is already filled in
+Plate calculator and supersets
+Cardio, steps from Apple Health
+Share a workout as an image or send it to Strava
+Butties
+Start a group with up to five friends and invite them with a code. Your Butts stand side by side, you see who trained this week and cheer each other on. No leaderboard.
+Monthly challenge Complete three tasks in a month to win that month's item.
+FAQ
+Is GymButt free?
+Yes. Workouts, exercises, the avatar and streaks are free and ad-free. The optional GymButt Pro subscription adds weekly and monthly reports, the strength check, workout generation and all recipes.
+Do I need an account?
+No. Without an account your workout data stays on your iPhone. You only need an account for Butties, the groups with friends.
+Is GymButt on Android?
+Not yet. GymButt currently runs on iPhone only.
+All questions
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/press/
+
+Press
+Official images, app icon and copy for GymButt. Feel free to use everything when writing about the app.
+Short description
+GymButt is an iPhone app for strength training from Switzerland. You log sets, weights and reps, and with every workout the avatar Butt earns XP, levels up and unlocks new items like caps, hairstyles and fur colors. Free, with no ads and no account.
+Facts
+Name GymButt
+Platform iPhone (iOS)
+Status Available on the App Store (iPhone), free, optional GymButt Pro subscription
+Price Free, optional GymButt Pro subscription
+Languages German, English
+Exercises over 300
+Developer Moritz Härri, Zurich
+Contact gymbutt@outlook.com
+Website gymbutt.ch
+Longer description
+Butt is your training buddy and a bit lazy at first. Every workout earns XP: Butt levels up and collects outfits, hairstyles, glasses and fur colors, looking funnier and funnier over time. Skip several days without any movement and you'll find Butt on the couch. Levels and items are never lost, though.
+Underneath is a full workout tracker: ready-made workouts for beginners to pros, over 300 exercises with figures and instructions, a rest timer on the Lock Screen, weight suggestions, a muscle map, records and import from Strong and Hevy. In Butties, small groups of friends train together without a leaderboard. Workouts, weights and health data stay on the iPhone.
+App icon
+The app icon shows Butt, the app's avatar.
+Download icon (1024 × 1024 PNG)
+Screenshots
+Click an image for full size (1320 × 2868 px, 6.9-inch iPhone). The app interface in the screenshots is in German.
+GymButt home screen with the avatar Butt, level and streak Download
+Customizing Butt: fur colors and hairstyles, many unlocked by training Download
+An exercise during a workout with sets, weight suggestion and rest timer Download
+History with a muscle map of the last 7 days Download
+Weekly challenges and achievements that unlock new items Download
+Recipes with a daily protein target Download
+A recipe with nutrition per serving and a shopping list to tick off Download
+Cooking mode: step by step with amounts and a timer Download
+Butties group: friends' avatars side by side Download
+GymButt Pro: all Pro features at a glance Download
+Pro: analytics with workouts per week and volume over 3 months Download
+Pro: weekly report with comparison, volume and sets per muscle Download
+Pro: strength check with a strength level per exercise and a goal Download
+Pro: generate a workout by muscle group, duration and level Download
+Pro: nutrition profile with diet, body weight, goal and meals per day Download
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
