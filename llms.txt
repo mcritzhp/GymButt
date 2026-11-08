@@ -1,6 +1,6 @@
 # GymButt
 
-> GymButt is an iPhone app for strength training made in Switzerland. Users log sets, weights and reps; with every workout their avatar "Butt" earns XP, levels up and unlocks new items (caps, hairstyles, glasses, outfits, fur colors). Free without ads or account. Without the optional features Butties (friend groups) and Strava, workout data stays on the iPhone. Optional subscription GymButt Pro. Currently in beta via Apple TestFlight. Available in German and English. Not available on Android.
+> GymButt is an iPhone app for strength training made in Switzerland. Users log sets, weights and reps; with every workout their avatar "Butt" earns XP, levels up and unlocks new items (caps, hairstyles, glasses, outfits, fur colors). Free without ads or account. Without the optional features Butties (friend groups) and Strava, workout data stays on the iPhone. Optional subscription GymButt Pro. Available on the App Store: https://apps.apple.com/app/gymbutt/id6824511814 . Available in German and English. Not available on Android.
 
 Key facts:
 - Over 300 exercises with figures, instructions and common mistakes; ready-made workouts for beginner, intermediate and pro with bodyweight, free weights or machines
