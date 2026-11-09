@@ -5,22 +5,25 @@
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/vergleich/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/compare/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/faq/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/faq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/faq/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/features/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/funktionen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/features/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-training-saetze.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-verlauf-muskelkarte.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-butties-gruppe.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-rezepte-protein.jpg</image:loc></image:image>
@@ -31,6 +34,7 @@
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-kraft-check.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-analysen-trainings-volumen.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-training-generieren.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/beginner-workout-plan/</loc>
@@ -38,78 +42,88 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/trainingsplan-anfaenger/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/beginner-workout-plan/"/>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-training-saetze.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/first-week-at-the-gym/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/erste-woche-im-gym/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/first-week-at-the-gym/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/gym-app-no-account/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/gym-app-ohne-konto/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/gym-app-no-account/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/gym-motivation/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/gym-motivation/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/gym-motivation/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/gymbutt-pro/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/gymbutt-pro/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/gymbutt-pro/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/protein-per-day/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/protein-pro-tag/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/protein-per-day/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/streak-with-rest-days/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/streak-mit-ruhetagen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/streak-with-rest-days/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/guides/switch-from-strong-hevy/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/von-strong-hevy-wechseln/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/switch-from-strong-hevy/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/imprint/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/impressum/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/imprint/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-training-saetze.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-butties-gruppe.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/en/press/</loc>
@@ -133,6 +147,7 @@
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-kraft-check.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-training-generieren.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-ernaehrungsprofil.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/presse/gymbutt-app-icon-1024.png</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/presse/gymbutt-avatar-fellfarben-frisuren.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/presse/gymbutt-uebung-saetze-pausentimer.jpg</image:loc></image:image>
@@ -154,22 +169,25 @@
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/was-ist-neu/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/whats-new/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-en.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-en.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/faq/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/faq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/faq/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/funktionen/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/funktionen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/features/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-training-saetze.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-verlauf-muskelkarte.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-butties-gruppe.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-rezepte-protein.jpg</image:loc></image:image>
@@ -180,22 +198,24 @@
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-kraft-check.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-analysen-trainings-volumen.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-training-generieren.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/impressum/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/impressum/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/imprint/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-training-saetze.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-butties-gruppe.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/presse/</loc>
@@ -219,6 +239,7 @@
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-kraft-check.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-training-generieren.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-pro-ernaehrungsprofil.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/presse/gymbutt-app-icon-1024.png</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/presse/gymbutt-avatar-fellfarben-frisuren.jpg</image:loc></image:image>
     <image:image><image:loc>https://gymbutt.ch/presse/gymbutt-uebung-saetze-pausentimer.jpg</image:loc></image:image>
@@ -240,49 +261,56 @@
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/erste-woche-im-gym/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/first-week-at-the-gym/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/gym-app-ohne-konto/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/gym-app-ohne-konto/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/gym-app-no-account/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/gym-motivation/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/gym-motivation/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/gym-motivation/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/gymbutt-pro/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/gymbutt-pro/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/gymbutt-pro/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/protein-pro-tag/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/protein-pro-tag/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/protein-per-day/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/streak-mit-ruhetagen/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/streak-mit-ruhetagen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/streak-with-rest-days/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/trainingsplan-anfaenger/</loc>
@@ -290,27 +318,31 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/trainingsplan-anfaenger/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/beginner-workout-plan/"/>
     <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-training-saetze.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/ratgeber/von-strong-hevy-wechseln/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/ratgeber/von-strong-hevy-wechseln/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/guides/switch-from-strong-hevy/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/vergleich/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/vergleich/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/compare/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/was-ist-neu/</loc>
     <lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://gymbutt.ch/was-ist-neu/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://gymbutt.ch/en/whats-new/"/>
-    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-avatar-butt-blumenkette.jpg</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/gymbutt-og-de.png</image:loc></image:image>
+    <image:image><image:loc>https://gymbutt.ch/assets/img/appstore-badge-de.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://gymbutt.ch/datenschutz.html</loc>
