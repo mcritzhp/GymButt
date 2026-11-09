@@ -9,7 +9,7 @@ Key facts:
 - Muscle map, personal records, import from Strong and Hevy (CSV), steps and cardio from Apple Health, send workouts to Strava
 - Butties: private groups of up to 6 people, avatars side by side, no leaderboard, no public profiles (requires Sign in with Apple)
 - Over 100 recipes (vegan, vegetarian, with meat) with a daily protein target
-- GymButt Pro (Apple subscription, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
+- GymButt Pro (Apple subscription, CHF 3 per month or CHF 25 per year in Switzerland, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
 - Developer: Moritz Härri, contact gymbutt@outlook.com
 
 ## Pages (English)
@@ -191,7 +191,7 @@ Weekly and monthly report, strength check – Yes
 Strength levels and goals, recovery per muscle – Yes
 Volume trends, recap, CSV export – Yes
 Nutrition profile with daily needs and macros – Yes
-GymButt Pro is a subscription through Apple with a 7-day free trial. There are no ads in any version.
+GymButt Pro is a subscription through Apple (in Switzerland CHF 3 a month or CHF 25 a year) with a 7-day free trial. There are no ads in any version.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 Download free
@@ -242,6 +242,73 @@ Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 Download free
 
+## https://gymbutt.ch/en/guides/first-week-at-the-gym/
+
+Guides › First week at the gym
+First week at the gym
+You don't need to know everything. You just need to start and show up three times.
+In short
+In your first week plan three training days with rest days in between, start with a ready-made beginner workout , log every set and deliberately use light weights. The goal of week one isn't performance, it's making the trip to the gym a habit.
+The day before
+Download GymButt, open Settings and choose your training days , for example Monday, Wednesday and Friday. Then pick a ready-made beginner workout. They come with bodyweight, free weights or machines, depending on what your gym has. Pack water and a towel and put the time in your calendar.
+Monday: first workout
+Do the workout exercise by exercise. Every exercise has a figure, instructions and common mistakes. Start light, 3 sets of 8 to 12 reps, and stop when you notice your form slipping. The rest timer runs on your Lock Screen, so you don't have to keep the app open. Afterwards your Butt earns its first XP.
+Tuesday: rest day
+You don't have to do anything. A rest day counts for your streak and even gives XP. Light movement like a walk doesn't hurt but isn't required. Sore muscles on day two are normal.
+Wednesday and Friday
+Repeat the workout. GymButt suggests a weight for next time. If you manage 12 clean reps in every set, you can add weight. If you want more variety, alternate between two workouts, as described in the beginner workout plan .
+Weekend: look back
+Check your history: how many workouts, how many sets? The muscle map shows which muscles you hit. A workout is done when you did it, even if it was short.
+Common beginner mistakes
+Starting too heavy and quitting after two weeks.
+Training every day with no rest days.
+Comparing yourself with others at the gym.
+Not writing anything down, because without numbers you can't see progress.
+With GymButt
+When motivation dips, use the minimum goal: 20 minutes or three exercises. It counts for your streak, and you've done your workout. More in the motivation guide .
+FAQ
+How often should I go to the gym in my first week?
+Three times is enough, for example Monday, Wednesday and Friday. Rest days in between let your muscles recover.
+What weight should I start with?
+A light weight you can lift cleanly 12 times. GymButt suggests weights afterwards. You can add weight once you manage 12 reps in every set.
+Do I need to know everything in the first week?
+No. You learn the exercises over time. In GymButt every exercise has a figure, instructions and common mistakes.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/gym-app-no-account/
+
+Guides › Gym app with no account
+A gym app with no account and no ads
+You shouldn't have to sign up to train. Here is what GymButt sends where, and what it doesn't.
+In short
+Without the optional features Butties and Strava , workouts, weights, nutrition and steps stay on your iPhone . GymButt has no ads and no analytics . You only need an account for Butties, the groups with friends.
+What stays on your iPhone
+Workouts, weights, nutrition, history and records are stored locally on your iPhone. GymButt needs no account or email address for that. The app reads steps from Apple Health, but only if you allow it.
+What GymButt doesn't have
+No ads, in any version.
+No analytics and no tracking of app usage.
+No public profiles and no leaderboard.
+What Butties stores
+Only if you use Butties and sign in with Apple, GymButt stores your nickname, your Butt, level and streak, your daily status and your weekly challenge number at Google Firebase in Zurich. The members of your group can see these. If you send a Buddy a workout template, it stays on the server for 30 days at most, until it's accepted or declined. You delete your Butties account yourself in the app under “GymButties”.
+What Strava gets
+If you connect Strava, a workout only goes to Strava when you send it: name, start time, duration and exercises with sets, reps and weights. Your Strava sign-in is kept in your iPhone's Keychain.
+How to check for yourself
+The full explanation is in the privacy policy . In the App Store, the “App Privacy” section shows which data is collected. gymbutt@outlook.com answers questions.
+With GymButt
+You can use GymButt entirely without an account: train, keep your streak, dress up Butt and cook recipes. The groups with friends are there when you want them.
+FAQ
+Do I need an account for GymButt?
+No. You only sign in with Apple for Butties, the groups with friends. Everything else works without an account.
+Does GymButt have ads or tracking?
+No. GymButt has no ads in any version and no analytics of app usage.
+Where is my workout data stored?
+On your iPhone. Without Butties and Strava, workouts, weights, nutrition and steps don't leave the device.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
 ## https://gymbutt.ch/en/guides/gym-motivation/
 
 Guides › Motivation
@@ -279,6 +346,44 @@ Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 Download free
 
+## https://gymbutt.ch/en/guides/gymbutt-pro/
+
+Guides › GymButt Pro
+GymButt Pro
+The essentials are free. Pro is for everyone who wants to look deeper into their training.
+In short
+In Switzerland GymButt Pro costs CHF 3 a month or CHF 25 a year , with a 7-day free trial . It adds reports, strength check, workout generation, a nutrition profile and more. Workouts, avatar, streak and history stay free, without ads.
+What does Pro cost?
+GymButt Pro is a subscription through Apple, monthly or yearly: CHF 3 a month or CHF 25 a year . The yearly plan is almost a third cheaper than twelve months (CHF 36). The first 7 days are free. Prices in other countries are shown by the App Store in your currency.
+The subscription renews automatically unless you cancel it at least 24 hours before it ends in your Apple account settings.
+What stays free?
+The basics are free and ad-free: workouts, over 300 exercises, templates, rest timer, avatar with items, streak, challenges, history with records and muscle map, one Butties group, import from Strong and Hevy and five recipes per diet.
+What does Pro add?
+Generate a workout: pick muscle groups, duration and level, and the workout is ready.
+Weekly and monthly report: comparison with previous weeks, sets per muscle and a focus for next week.
+Strength check: a strength level per exercise, goals with a forecast and help on plateaus.
+Volume trends, recap and CSV export.
+Recovery per muscle on the muscle map.
+Nutrition profile: your weight and goal become protein and calories per day and per meal.
+All recipes instead of five per diet.
+Two freezes per month instead of one and up to three Butties groups instead of one.
+Who is it worth it for?
+If you mainly want to log workouts and dress up your Butt, the free version is enough. Pro is worth it if you want to know whether you're getting stronger and where you stall, if you'd rather not plan your own workouts, or if you want your nutrition to follow your goal. Try the 7 days and decide afterwards.
+How to cancel
+On your iPhone open Settings, tap your name at the top, then “Subscriptions” and choose GymButt Pro. You can cancel there at any time. Pro stays active until the end of the paid period.
+With GymButt
+The Pro features open where you need them, for example in History under “View stats” for the strength check. You can see what's behind it before you subscribe.
+FAQ
+How much does GymButt Pro cost?
+CHF 3 a month or CHF 25 a year in Switzerland, with a 7-day free trial. In other countries the App Store shows the price in the local currency.
+Can I use GymButt without Pro?
+Yes. Workouts, exercises, avatar, streak, history and Butties (one group) are free and ad-free.
+How do I cancel GymButt Pro?
+In your iPhone settings under your name › Subscriptions › GymButt Pro, at least 24 hours before it ends. Pro stays active until the end of the paid period.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
 ## https://gymbutt.ch/en/guides/
 
 Guides
@@ -292,6 +397,21 @@ What the research says, how to work out your needs and what that looks like on y
 Motivation
 Sticking with the gym: 8 tips that actually help
 Why motivation isn't enough and which habits get you to the gym even on tired days.
+Switching
+Switch from Strong or Hevy to GymButt
+Export a CSV, import it in Settings and keep your records and history.
+Streak
+Streak with rest days: keep the chain without stress
+Why rest days count, how the freeze works and what happens when it breaks.
+Privacy
+A gym app with no account and no ads
+What stays on your iPhone, what Butties stores and what Strava gets.
+Pro
+GymButt Pro: price and is it worth it?
+CHF 3 a month or CHF 25 a year: what Pro adds and what stays free.
+Getting started
+First week at the gym: how to start
+Three training days, a ready-made workout, light weights and rest days.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 Download free
@@ -330,6 +450,73 @@ At 70 kg (154 lb), 1.6 g per kg is about 112 g of protein per day, spread over t
 Do I need protein powder?
 No. Protein powder is convenient but not necessary. Quark or skyr, yogurt, eggs, legumes, tofu, fish and meat are enough if every meal has a protein source.
 Sources: Morton RW et al., British Journal of Sports Medicine 2018, "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength". Jäger R et al., Journal of the International Society of Sports Nutrition 2017, "Position stand: protein and exercise". If you have kidney disease, check with a doctor first.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/streak-with-rest-days/
+
+Guides › Streak with rest days
+Streak with rest days
+A streak should get you to the gym, not give you a guilty conscience.
+In short
+In GymButt a day counts for your streak if you trained, hit your step goal or it's a planned rest day . If you miss a training day, a freeze covers it: one per month, two with Pro. You never lose levels or items.
+The problem with the classic streak
+Many apps only count days with a workout. If you take your rest days, you lose the chain. That rewards the wrong thing: you train sick or exhausted just to keep a number going. Rest days are part of training because muscles recover between sessions.
+How the streak works in GymButt
+In Settings you choose your training days , for example Monday, Wednesday and Friday.
+All other days are rest days . They count for your streak and even give XP.
+Reaching your step goal also keeps the streak going.
+If you miss a training day, a freeze covers it. You get one per month, two with Pro.
+If a training day is still open, GymButt reminds you at 8 pm.
+What happens when the streak breaks?
+You start again from zero, but you lose nothing: levels and items stay . Only Butt's mood drops when several days pass without movement. The streak is a rhythm, not a punishment.
+Why this works
+A study on habit formation (Lally et al., 2010) found that a single missed day didn't destroy the habit. What counts is being back at your next planned workout. A streak that plans for breaks reflects that.
+Streak with friends
+A Butties group has a shared streak. It grows every day on which everyone has trained or has a rest day. Once a week one person can miss with a freeze without breaking the chain. There is deliberately no leaderboard.
+With GymButt
+Plan training days you can manage even on bad days. Two or three are enough to start. The rest are rest days, and they count.
+FAQ
+Do rest days count for the streak?
+Yes. Planned rest days count for your streak and even give XP. You choose which days are training days in Settings.
+How many freezes do I get?
+One freeze per month for free, two per month with GymButt Pro. It automatically covers a missed training day.
+Do I lose levels or items when the streak breaks?
+No. Breaks never cost levels or items. Only Butt's mood drops after several days without movement.
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/guides/switch-from-strong-hevy/
+
+Guides › Switch from Strong or Hevy
+Switch from Strong or Hevy to GymButt
+Your history stays: export it as a CSV and bring it into GymButt in three steps.
+In short
+Export your workouts from Strong or Hevy as a CSV file and pick it in GymButt under Settings › Bring over from Strong or Hevy . The workouts show up in your history and count for records and weight suggestions. XP is only for workouts you do in GymButt.
+Step 1: export from Strong or Hevy
+Both apps can export your workouts as a CSV file. You find the export in each app's settings: in Hevy under “Export & Import Data”, in Strong under “Export Strong Data”. Menu names can change with app updates. Save the file in Files or send it to yourself so you can pick it on your iPhone.
+Step 2: import in GymButt
+Open Settings in GymButt and tap Choose CSV file in the “Bring over from Strong or Hevy” section. GymButt recognizes which app the file comes from and first shows how many workouts and sets there are and which period they cover. Tap “Bring over” to start the import.
+What happens
+The workouts appear in your history and count for personal records and weight suggestions .
+Imported workouts earn no XP . XP is only for workouts in GymButt.
+If a workout is already in GymButt, it is skipped , so nothing gets imported twice.
+If GymButt doesn't know an exercise, it adds it as your own exercise .
+Weights in pounds are converted to kilograms.
+If the file isn't from Strong or Hevy, you get an error message and your data stays unchanged.
+And the way back?
+With GymButt Pro you can share all your workouts with every set as a CSV file, for example for your coach or for Excel. According to the app, Strong and Hevy can import that file too. Your data stays yours.
+With GymButt
+After the import you can see at a glance how your training has gone so far, and GymButt suggests fitting weights for next time. Your Butt starts at zero because XP and items are only for workouts in GymButt. That makes the switch feel like a fresh start, not like falling behind.
+FAQ
+Will I lose my records if I switch?
+No. Imported workouts count for records and weight suggestions in GymButt. Your data in Strong or Hevy also stays until you delete it there.
+Does the import cost anything?
+No. Importing from Strong and Hevy is free, without GymButt Pro.
+Do I get XP for old workouts?
+No. XP and items are only for workouts you do in GymButt. Imported workouts are marked “Imported from Strong · no XP” (or Hevy) in the history.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 Download free
@@ -411,6 +598,36 @@ Pro: weekly report with comparison, volume and sets per muscle Download
 Pro: strength check with a strength level per exercise and a goal Download
 Pro: generate a workout by muscle group, duration and level Download
 Pro: nutrition profile with diet, body weight, goal and meals per day Download
+Get Butt off the couch
+GymButt is free on the App Store, for iPhone.
+Download free
+
+## https://gymbutt.ch/en/whats-new/
+
+What's new in GymButt
+App versions and changes, newest first.
+In short
+The current version is GymButt 1.0.0 , the first release on the App Store (November 2026). This page lists what each version adds.
+Version 1.0.0 · November 2026
+The first release on the App Store, free, with an optional GymButt Pro subscription.
+Training: over 300 exercises with a figure, instructions and common mistakes, ready-made workouts from beginner to pro, your own templates, weight suggestion, plate calculator, supersets, cardio with time and distance.
+Rest timer on the Lock Screen and in the Dynamic Island.
+Avatar Butt: XP, levels and items like caps, hairstyles, glasses, outfits and fur colors.
+Streak with rest days and freezes, weekly and monthly challenges.
+History: calendar, muscle map, records, import from Strong and Hevy (CSV), steps from Apple Health, share a workout as an image or send it to Strava.
+Butties: private groups of up to 6 people, no leaderboard.
+Food: over 100 recipes with a daily protein target, shopping list and cooking mode.
+GymButt Pro: workout generation, reports, strength check, nutrition profile, with a 7-day free trial.
+In English and German.
+Before
+Before the App Store release, GymButt was available as a beta through TestFlight. Thanks to everyone who tested.
+Getting updates
+The App Store installs new versions automatically if you have automatic updates turned on. This page is extended with every version. Feedback and wishes are welcome at gymbutt@outlook.com.
+FAQ
+Which version of GymButt is current?
+The current version is 1.0.0, the first release on the App Store in November 2026.
+Where can I see which version I have?
+In the App Store under your profile in the updates list, or in the app under Settings.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 Download free

@@ -9,7 +9,7 @@ Key facts:
 - Muscle map, personal records, import from Strong and Hevy (CSV), steps and cardio from Apple Health, send workouts to Strava
 - Butties: private groups of up to 6 people, avatars side by side, no leaderboard, no public profiles (requires Sign in with Apple)
 - Over 100 recipes (vegan, vegetarian, with meat) with a daily protein target
-- GymButt Pro (Apple subscription, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
+- GymButt Pro (Apple subscription, CHF 3 per month or CHF 25 per year in Switzerland, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
 - Developer: Moritz Härri, contact gymbutt@outlook.com
 
 ## Pages (English)
