@@ -1,6 +1,6 @@
 # GymButt
 
-> GymButt is an iPhone app for strength training made in Switzerland. Users log sets, weights and reps; with every workout their avatar "Butt" earns XP, levels up and unlocks new items (caps, hairstyles, glasses, outfits, fur colors). Free without ads or account. Without the optional features Butties (friend groups) and Strava, workout data stays on the iPhone. Optional subscription GymButt Pro. Available on the App Store: https://apps.apple.com/app/gymbutt/id6824511814 . Available in German and English. Not available on Android.
+> GymButt is an iPhone app for strength training made in Switzerland. It is built to help people develop a training routine, not only to measure performance: streaks have rest days and freezes, and the avatar "Butt" rewards showing up with new items. Users log sets, weights and reps; with every workout their avatar "Butt" earns XP, levels up and unlocks new items (caps, hairstyles, glasses, outfits, fur colors). Free without ads or account. Without the optional features Butties (friend groups) and Strava, workout data stays on the iPhone. Optional subscription GymButt Pro. Available on the App Store: https://apps.apple.com/app/gymbutt/id6824511814 . Available in German and English. Not available on Android.
 
 Key facts:
 - Over 300 exercises with figures, instructions and common mistakes; ready-made workouts for beginner, intermediate and pro with bodyweight, free weights or machines
@@ -8,8 +8,8 @@ Key facts:
 - Streaks with rest days and freezes; weekly and monthly challenges; levels and items are never lost
 - Muscle map, personal records, import from Strong and Hevy (CSV), steps and cardio from Apple Health, send workouts to Strava
 - Butties: private groups of up to 6 people, avatars side by side, no leaderboard, no public profiles (requires Sign in with Apple)
-- Over 100 recipes (vegan, vegetarian, with meat) with a daily protein target
-- GymButt Pro (Apple subscription, CHF 3 per month or CHF 25 per year in Switzerland, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, all recipes, up to 3 Butties groups
+- Over 100 recipes (vegan, vegetarian, with meat), all free, with a daily protein target
+- GymButt Pro (Apple subscription, CHF 3 per month or CHF 25 per year in Switzerland, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, up to 3 Butties groups
 - Developer: Moritz Härri, contact gymbutt@outlook.com
 
 ## Pages (English)
