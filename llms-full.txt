@@ -9,7 +9,8 @@ Key facts:
 - Muscle map, personal records, import from Strong and Hevy (CSV), steps and cardio from Apple Health, send workouts to Strava
 - Butties: private groups of up to 6 people, avatars side by side, no leaderboard, no public profiles (requires Sign in with Apple)
 - Over 100 recipes (vegan, vegetarian, with meat), all free, with a daily protein target
-- GymButt Pro (Apple subscription, CHF 3 per month or CHF 25 per year in Switzerland, 7-day free trial): workout generation, weekly/monthly reports, strength check, nutrition profile with macros, up to 3 Butties groups
+- Free: workouts, analytics (weekly/monthly reports, strength check, recovery per muscle, volume trends), workout generation, nutrition profile with macros, all recipes, 2 streak freezes per month, up to 3 Butties groups
+- GymButt Pro (Apple subscription, CHF 3 per month or CHF 25 per year in Switzerland, 7-day free trial): CoachButt, a personal training and nutrition plan created by an AI (Claude by Anthropic) from a short questionnaire and adjusted after a weekly check-in; Pro avatar items
 - Developer: Moritz Härri, contact gymbutt@outlook.com
 
 ## Pages (English)
@@ -70,6 +71,7 @@ Platform iPhone iPhone, Android iPhone, Android
 Avatar with items and levels Yes No No
 Social Groups of up to 6, no leaderboard – Feed with followers
 Recipes and protein target Yes No No
+Personal AI plan CoachButt (in Pro) – –
 Use without an account Yes – –
 Import from the other apps Strong and Hevy – –
 Details about Strong and Hevy to the best of our knowledge, as of November 2026. "–" means not checked or not the app's focus.
@@ -98,17 +100,19 @@ Everything important about GymButt, answered briefly.
 What is GymButt?
 GymButt is an iPhone app for strength training. You log sets, weights and reps, and with every workout your avatar Butt earns XP, levels up and unlocks new outfits, hairstyles and items.
 Is GymButt free?
-Yes. Workouts, over 300 exercises, templates, the avatar, streaks and history are free and ad-free. The optional GymButt Pro subscription adds extra features.
+Yes. Workouts, over 300 exercises, templates, the avatar, streaks and history are free and ad-free. Analytics, the strength check, workout generation, the nutrition profile and all recipes are free too. The optional GymButt Pro subscription adds CoachButt.
 What does GymButt Pro include?
-Pro adds workout generation, weekly and monthly reports, the strength check, a nutrition profile with daily needs and macros and up to three Butties groups. The subscription runs through Apple and comes with a 7-day free trial.
+Pro adds CoachButt: a personal training and nutrition plan that an AI creates from your answers and adjusts every week after a short check-in. You also get the Pro items for your Butt. The subscription runs through Apple and comes with a 7-day free trial.
+What is CoachButt?
+CoachButt is your personal coach in GymButt Pro. You answer a few questions about your goal, experience, training days, time, equipment and diet. That becomes a training plan with exercises, sets and reps and a nutrition plan with recipes. On Sunday you do a short check-in, and CoachButt adjusts the plan to your week. The plan comes from an AI (Claude by Anthropic) and is not medical advice.
 Do I need an account?
 No. Without an account your workout data stays on your iPhone. You only need an account via Sign in with Apple for Butties, the groups with friends.
 What happens to my data?
-Workouts, weights, body weight, nutrition and Apple Health data stay on your iPhone. There are no ads, no tracking and no analytics tools. Without Butties and Strava, nothing leaves your iPhone. In Butties, only members of your groups see your nickname, your Butt, level, streak, whether you trained today and your number for the weekly challenge (e.g. 12 leg sets). Weights and health data don't go to Butties. If you send a workout to Strava, exercises, sets, reps and weights go to Strava. The privacy policy has all the details.
+Workouts, weights, body weight, nutrition and Apple Health data stay on your iPhone. There are no ads, no tracking and no analytics tools. Without Butties, Strava and CoachButt, nothing leaves your iPhone. In Butties, only members of your groups see your nickname, your Butt, level, streak, whether you trained today and your number for the weekly challenge (e.g. 12 leg sets). Weights and health data don't go to Butties. If you send a workout to Strava, exercises, sets, reps and weights go to Strava. If you use CoachButt and consent, your questionnaire answers and, at the check-in, a summary of your week go to Anthropic's AI, without your name or email. The privacy policy has all the details.
 Is GymButt available on Android?
 Not yet. GymButt currently runs on iPhone only.
 Where can I get GymButt?
-GymButt is free on the App Store, for iPhone. The core features are free, without ads and without an account. The optional GymButt Pro subscription adds more.
+GymButt is free on the App Store, for iPhone. The core features are free, without ads and without an account. The optional GymButt Pro subscription adds CoachButt.
 How does Butt get new items?
 Every workout earns XP. New levels, achievements like a streak record or new personal bests, weekly challenges and the monthly challenge unlock caps, hairstyles, glasses, outfits and fur colors.
 What happens if I take a break?
@@ -167,28 +171,31 @@ Over 100 simple recipes, vegan, vegetarian or with meat. Plus a daily protein ta
 Recipes: over 100 dishes with protein and calories, matching ones are marked
 Shopping list: nutrition per serving, amounts scaled to the number of servings
 Cooking mode: step by step with amounts and a timer
-Nutrition profile (Pro): your weight and goal become protein and calories per day and per meal
+Nutrition profile: your weight and goal become protein and calories per day and per meal
 The app interface in the screenshots is in German.
-Analytics with Pro
-GymButt Pro shows you in more detail how your training is going: weekly and monthly reports, a strength level per exercise and workouts that build themselves.
+Analytics, free
+See in more detail how your training is going: weekly and monthly reports, a strength level per exercise and workouts that build themselves. All free.
 Weekly and monthly report: comparison with previous weeks, sets per muscle and a focus for next week
 Strength check: a strength level per exercise, goals with a forecast and what helps on a plateau
 Volume trends: workouts and volume over weeks, months or all time, plus a recap and CSV export
 Generate a workout: pick muscle groups, duration and level, and the workout is ready
 The app interface in the screenshots is in German.
 Free and Pro
+Almost everything is free. The GymButt Pro subscription adds CoachButt : a personal training and nutrition plan that an AI creates from your answers and adjusts to your week every Sunday after a short check-in.
 Feature Free Pro
 Workouts, exercises, templates, rest timer Yes Yes
 Avatar, streaks, challenges, items Yes Yes
-Streak jokers 1 per month 2 per month
+Streak jokers 2 per month 2 per month
 History, records, muscle map Yes Yes
-Butties groups 1 group up to 3 groups
+Butties groups up to 3 groups up to 3 groups
 Recipes All All
-Generate a workout – Yes
-Weekly and monthly report, strength check – Yes
-Strength levels and goals, recovery per muscle – Yes
-Volume trends, recap, CSV export – Yes
-Nutrition profile with daily needs and macros – Yes
+Generate a workout Yes Yes
+Weekly and monthly report, strength check Yes Yes
+Strength levels and goals, recovery per muscle Yes Yes
+Volume trends, recap, CSV export Yes Yes
+Nutrition profile with daily needs and macros Yes Yes
+CoachButt: personal training and nutrition plan with a weekly check-in – Yes
+Pro items: gold crown, Pro shades, reindeer antlers, sparkler, heart sweater, Gold shine fur – Yes
 GymButt Pro is a subscription through Apple (in Switzerland CHF 3 a month or CHF 25 a year) with a 7-day free trial. There are no ads in any version.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
@@ -278,7 +285,7 @@ Guides › Gym app with no account
 A gym app with no account and no ads
 You shouldn't have to sign up to train. Here is what GymButt sends where, and what it doesn't.
 In short
-Without the optional features Butties and Strava , workouts, weights, nutrition and steps stay on your iPhone . GymButt has no ads and no analytics . You only need an account for Butties, the groups with friends.
+Without the optional features Butties, Strava and CoachButt , workouts, weights, nutrition and steps stay on your iPhone . GymButt has no ads and no analytics . You only need an account for Butties, the groups with friends.
 What stays on your iPhone
 Workouts, weights, nutrition, history and records are stored locally on your iPhone. GymButt needs no account or email address for that. The app reads steps from Apple Health, but only if you allow it.
 What GymButt doesn't have
@@ -287,6 +294,8 @@ No analytics and no tracking of app usage.
 No public profiles and no leaderboard.
 What Butties stores
 Only if you use Butties and sign in with Apple, GymButt stores your nickname, your Butt, level and streak, your daily status and your weekly challenge number at Google Firebase in Zurich. The members of your group can see these. If you send a Buddy a workout template, it stays on the server for 30 days at most, until it's accepted or declined. You delete your Butties account yourself in the app under “GymButties”.
+What CoachButt gets
+CoachButt is part of the GymButt Pro subscription and asks for your consent first. For your plan, your questionnaire answers and, at the check-in, a summary of your week go through our server to the AI Claude by Anthropic, without your name or email. The server keeps the plan for 14 days at most, until the app picks it up.
 What Strava gets
 If you connect Strava, a workout only goes to Strava when you send it: name, start time, duration and exercises with sets, reps and weights. Your Strava sign-in is kept in your iPhone's Keychain.
 How to check for yourself
@@ -299,7 +308,7 @@ No. You only sign in with Apple for Butties, the groups with friends. Everything
 Does GymButt have ads or tracking?
 No. GymButt has no ads in any version and no analytics of app usage.
 Where is my workout data stored?
-On your iPhone. Without Butties and Strava, workouts, weights, nutrition and steps don't leave the device.
+On your iPhone. Without Butties, Strava and CoachButt, workouts, weights, nutrition and steps don't leave the device.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 
@@ -343,35 +352,36 @@ GymButt is free on the App Store, for iPhone.
 
 Guides › GymButt Pro
 GymButt Pro
-The essentials are free. Pro is for everyone who wants to look deeper into their training.
+Almost everything is free. Pro gives you CoachButt, your personal coach.
 In short
-In Switzerland GymButt Pro costs CHF 3 a month or CHF 25 a year , with a 7-day free trial . It adds reports, strength check, workout generation, a nutrition profile and more. Workouts, avatar, streak and history stay free, without ads.
+In Switzerland GymButt Pro costs CHF 3 a month or CHF 25 a year , with a 7-day free trial . It adds CoachButt : a personal training and nutrition plan that is adjusted to you every week. Workouts, analytics, the strength check, the nutrition profile and all recipes are free, without ads.
 What does Pro cost?
-GymButt Pro is a subscription through Apple, monthly or yearly: CHF 3 a month or CHF 25 a year . The yearly plan is almost a third cheaper than twelve months (CHF 36). The first 7 days are free. Prices in other countries are shown by the App Store in your currency.
-The subscription renews automatically unless you cancel it at least 24 hours before it ends in your Apple account settings.
-What stays free?
-The basics are free and ad-free: workouts, over 300 exercises, templates, rest timer, avatar with items, streak, challenges, history with records and muscle map, one Butties group, import from Strong and Hevy and all recipes.
+GymButt Pro is a subscription through Apple, monthly or yearly: CHF 3 a month or CHF 25 a year . The yearly plan is almost a third cheaper than twelve months (CHF 36). The first 7 days are free. In other countries the App Store shows prices in your currency.
+The subscription renews automatically unless you cancel it in your Apple account settings at least 24 hours before it ends.
+What is free?
+Almost everything, without ads: workouts, over 300 exercises, templates, rest timer, the avatar with items, streaks with two freezes a month, challenges, history with records and the muscle map, weekly and monthly reports, the strength check, recovery per muscle, volume trends, recap, CSV export, workout generation, the nutrition profile with macros, all recipes, up to three Butties groups and importing from Strong and Hevy.
 What does Pro add?
-Generate a workout: pick muscle groups, duration and level, and the workout is ready.
-Weekly and monthly report: comparison with previous weeks, sets per muscle and a focus for next week.
-Strength check: a strength level per exercise, goals with a forecast and help on plateaus.
-Volume trends, recap and CSV export.
-Recovery per muscle on the muscle map.
-Nutrition profile: your weight and goal become protein and calories per day and per meal.
-Two freezes per month instead of one and up to three Butties groups instead of one.
-Who is it worth it for?
-If you mainly want to log workouts and dress up your Butt, the free version is enough. Pro is worth it if you want to know whether you're getting stronger and where you stall, if you'd rather not plan your own workouts, or if you want your nutrition to follow your goal. Try the 7 days and decide afterwards.
+CoachButt, your personal plan: you answer a few questions about your goal, experience, training days, time per workout, equipment and diet. That becomes a training plan with exercises, sets and reps and a nutrition plan with matching recipes.
+Weekly check-in: on Sunday you briefly say how your week went. CoachButt looks at your workouts and adjusts the plan, for example when an exercise stalls or something hurts.
+Pro items for your Butt: gold crown, Pro shades, reindeer antlers, sparkler, heart sweater and the Gold shine fur.
+How does CoachButt work?
+The plan is written by an AI, Claude by Anthropic. Before anything is sent for the first time, the app asks for your permission. What is sent are your questionnaire answers and, at the check-in, a summary of your week, without your name or email. The plan then lives on your iPhone. Each month includes two new plans and four check-ins. The privacy policy has the details.
+The plan is a suggestion and doesn't replace medical or nutritional advice. If you have pain, injuries or an illness, ask a professional first.
+Who is it for?
+If you plan your own training, the free version is enough, it now does almost everything. Pro is worth it if you don't want to put a plan together yourself, don't know how to make progress, or want to align training and nutrition with your goal. Try the 7 days and decide afterwards.
 How to cancel
-On your iPhone open Settings, tap your name at the top, then “Subscriptions” and choose GymButt Pro. You can cancel there at any time. Pro stays active until the end of the paid period.
+In GymButt under Settings › GymButt Pro › "Manage subscription", or in your iPhone settings: tap your name at the top, then "Subscriptions" and GymButt Pro. You can cancel there at any time. Pro stays active until the end of the paid period.
 With GymButt
-The Pro features open where you need them, for example in History under “View stats” for the strength check. You can see what's behind it before you subscribe.
+You'll find CoachButt in the "Coach" tab at the bottom. It also shows you what to expect before you start the subscription.
 FAQ
 How much does GymButt Pro cost?
 CHF 3 a month or CHF 25 a year in Switzerland, with a 7-day free trial. In other countries the App Store shows the price in the local currency.
 Can I use GymButt without Pro?
-Yes. Workouts, exercises, avatar, streak, history and Butties (one group) are free and ad-free.
+Yes. Workouts, exercises, avatar, streak, history, analytics, the strength check, the nutrition profile, recipes and Butties are free and ad-free. You only need Pro for CoachButt and the Pro items.
+What is CoachButt?
+Your personal coach in GymButt Pro: your answers become a training and nutrition plan that CoachButt adjusts to your week every Sunday after a short check-in. The plan comes from an AI (Claude by Anthropic) and is not medical advice.
 How do I cancel GymButt Pro?
-In your iPhone settings under your name › Subscriptions › GymButt Pro, at least 24 hours before it ends. Pro stays active until the end of the paid period.
+In GymButt under Settings › GymButt Pro › Manage subscription, or in your iPhone settings under your name › Subscriptions, at least 24 hours before it ends. Pro stays active until the end of the paid period.
 Get Butt off the couch
 GymButt is free on the App Store, for iPhone.
 
@@ -399,7 +409,7 @@ A gym app with no account and no ads
 What stays on your iPhone, what Butties stores and what Strava gets.
 Pro
 GymButt Pro: price and is it worth it?
-CHF 3 a month or CHF 25 a year: what Pro adds and what stays free.
+CHF 3 a month or CHF 25 a year: what CoachButt adds and what's all free.
 Getting started
 First week at the gym: how to start
 Three training days, a ready-made workout, light weights and rest days.
@@ -449,14 +459,14 @@ Guides › Streak with rest days
 Streak with rest days
 A streak should get you to the gym, not give you a guilty conscience.
 In short
-In GymButt a day counts for your streak if you trained, hit your step goal or it's a planned rest day . If you miss a training day, a freeze covers it: one per month, two with Pro. You never lose levels or items.
+In GymButt a day counts for your streak if you trained, hit your step goal or it's a planned rest day . If you miss a training day, a freeze covers it, two per month. You never lose levels or items.
 The problem with the classic streak
 Many apps only count days with a workout. If you take your rest days, you lose the chain. That rewards the wrong thing: you train sick or exhausted just to keep a number going. Rest days are part of training because muscles recover between sessions.
 How the streak works in GymButt
 In Settings you choose your training days , for example Monday, Wednesday and Friday.
 All other days are rest days . They count for your streak and even give XP.
 Reaching your step goal also keeps the streak going.
-If you miss a training day, a freeze covers it. You get one per month, two with Pro.
+If you miss a training day, a freeze covers it. You get two per month, for free.
 If a training day is still open, GymButt reminds you at 8 pm.
 What happens when the streak breaks?
 You start again from zero, but you lose nothing: levels and items stay . Only Butt's mood drops when several days pass without movement. The streak is a rhythm, not a punishment.
@@ -470,7 +480,7 @@ FAQ
 Do rest days count for the streak?
 Yes. Planned rest days count for your streak and even give XP. You choose which days are training days in Settings.
 How many freezes do I get?
-One freeze per month for free, two per month with GymButt Pro. It automatically covers a missed training day.
+Two freezes per month, for free. A freeze automatically covers a missed training day.
 Do I lose levels or items when the streak breaks?
 No. Breaks never cost levels or items. Only Butt's mood drops after several days without movement.
 Get Butt off the couch
@@ -495,7 +505,7 @@ If GymButt doesn't know an exercise, it adds it as your own exercise .
 Weights in pounds are converted to kilograms.
 If the file isn't from Strong or Hevy, you get an error message and your data stays unchanged.
 And the way back?
-With GymButt Pro you can share all your workouts with every set as a CSV file, for example for your coach or for Excel. According to the app, Strong and Hevy can import that file too. Your data stays yours.
+In Settings you can share all your workouts with every set as a CSV file, for example for your coach or for Excel. According to the app, Strong and Hevy can import that file too. Your data stays yours.
 With GymButt
 After the import you can see at a glance how your training has gone so far, and GymButt suggests fitting weights for next time. Your Butt starts at zero because XP and items are only for workouts in GymButt. That makes the switch feel like a fresh start, not like falling behind.
 FAQ
@@ -536,7 +546,7 @@ Start a group with up to five friends and invite them with a code. Your Butts st
 Monthly challenge Complete three tasks in a month to win that month's item.
 FAQ
 Is GymButt free?
-Yes. Workouts, exercises, the avatar and streaks are free and ad-free. The optional GymButt Pro subscription adds weekly and monthly reports, the strength check, and workout generation. All recipes are free.
+Yes. Workouts, exercises, the avatar, streaks, analytics, the strength check, the nutrition profile and all recipes are free and ad-free. The optional GymButt Pro subscription adds CoachButt, a personal training and nutrition plan with a weekly check-in.
 Do I need an account?
 No. Without an account your workout data stays on your iPhone. You only need an account for Butties, the groups with friends.
 Is GymButt on Android?
@@ -554,8 +564,8 @@ GymButt is an iPhone app for strength training from Switzerland. You log sets, w
 Facts
 Name GymButt
 Platform iPhone (iOS)
-Status Available on the App Store (iPhone), free, optional GymButt Pro subscription
-Price Free, optional GymButt Pro subscription
+Status Available on the App Store (iPhone), free, optional GymButt Pro subscription with CoachButt
+Price Free, optional GymButt Pro subscription (CoachButt, Pro items)
 Languages German, English
 Exercises over 300
 Developer Moritz Härri, Zurich
@@ -592,7 +602,16 @@ GymButt is free on the App Store, for iPhone.
 What's new in GymButt
 App versions and changes, newest first.
 In short
-The current version is GymButt 1.0.0 , the first release on the App Store (November 2026). This page lists what each version adds.
+The current version is GymButt 1.1.0 with CoachButt , your personal training and nutrition plan in GymButt Pro. In return, all former Pro features are now free. This page lists what each version adds.
+Version 1.1.0 · November 2026
+New in the GymButt Pro subscription: CoachButt. Everything that used to be Pro is now free for everyone.
+CoachButt: a personal training and nutrition plan from your answers about your goal, experience, training days, time, equipment and diet. The plan sits in your calendar, with exercises, sets and reps and matching recipes every day.
+Weekly check-in: on Sunday, tell CoachButt briefly how your week went, and it adjusts your plan.
+Now free: weekly and monthly report, strength check, strength levels and goals, recovery per muscle, volume trends, recap, CSV export, workout generation and the nutrition profile with macros.
+For everyone: two freezes per month and up to three Butties groups.
+GymButt Pro in Settings: view, manage or restore your subscription.
+Version 1.0.1 · November 2026
+All recipes are free, plus iCloud backup and many improvements based on tester feedback.
 Version 1.0.0 · November 2026
 The first release on the App Store, free, with an optional GymButt Pro subscription.
 Training: over 300 exercises with a figure, instructions and common mistakes, ready-made workouts from beginner to pro, your own templates, weight suggestion, plate calculator, supersets, cardio with time and distance.
