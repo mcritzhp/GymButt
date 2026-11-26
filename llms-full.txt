@@ -108,7 +108,7 @@ CoachButt is your personal coach in GymButt Pro. You answer a few questions abou
 Do I need an account?
 No. Without an account your workout data stays on your iPhone. You only need an account via Sign in with Apple for Butties, the groups with friends.
 What happens to my data?
-Workouts, weights, body weight, nutrition and Apple Health data stay on your iPhone. There are no ads, no tracking and no analytics tools. Without Butties, Strava and CoachButt, nothing leaves your iPhone. In Butties, only members of your groups see your nickname, your Butt, level, streak, whether you trained today and your number for the weekly challenge (e.g. 12 leg sets). Weights and health data don't go to Butties. If you send a workout to Strava, exercises, sets, reps and weights go to Strava. If you use CoachButt and consent, your questionnaire answers and, at the check-in, a summary of your week go to Anthropic's AI, without your name or email. The privacy policy has all the details.
+Workouts, weights, body weight, nutrition and Apple Health data stay on your iPhone. There are no ads, no tracking and no third-party analytics tools. The app only counts anonymously which steps are reached (e.g. first workout), and you can turn that off in Settings. Without Butties, Strava and CoachButt, nothing leaves your iPhone. In Butties, only members of your groups see your nickname, your Butt, level, streak, whether you trained today and your number for the weekly challenge (e.g. 12 leg sets). Weights and health data don't go to Butties. If you send a workout to Strava, exercises, sets, reps and weights go to Strava. If you use CoachButt and consent, your questionnaire answers and, at the check-in, a summary of your week go to Anthropic's AI, without your name or email. The privacy policy has all the details.
 Is GymButt available on Android?
 Not yet. GymButt currently runs on iPhone only.
 Where can I get GymButt?
@@ -285,12 +285,12 @@ Guides › Gym app with no account
 A gym app with no account and no ads
 You shouldn't have to sign up to train. Here is what GymButt sends where, and what it doesn't.
 In short
-Without the optional features Butties, Strava and CoachButt , workouts, weights, nutrition and steps stay on your iPhone . GymButt has no ads and no analytics . You only need an account for Butties, the groups with friends.
+Without the optional features Butties, Strava and CoachButt , workouts, weights, nutrition and steps stay on your iPhone . GymButt has no ads and no tracking . You only need an account for Butties, the groups with friends.
 What stays on your iPhone
 Workouts, weights, nutrition, history and records are stored locally on your iPhone. GymButt needs no account or email address for that. The app reads steps from Apple Health, but only if you allow it.
 What GymButt doesn't have
 No ads, in any version.
-No analytics and no tracking of app usage.
+No tracking and no third-party analytics tools. Only an anonymous count of steps reached, which you can turn off.
 No public profiles and no leaderboard.
 What Butties stores
 Only if you use Butties and sign in with Apple, GymButt stores your nickname, your Butt, level and streak, your daily status and your weekly challenge number at Google Firebase in Zurich. The members of your group can see these. If you send a Buddy a workout template, it stays on the server for 30 days at most, until it's accepted or declined. You delete your Butties account yourself in the app under “GymButties”.
@@ -306,7 +306,7 @@ FAQ
 Do I need an account for GymButt?
 No. You only sign in with Apple for Butties, the groups with friends. Everything else works without an account.
 Does GymButt have ads or tracking?
-No. GymButt has no ads in any version and no analytics of app usage.
+No. GymButt has no ads in any version and no tracking. The app only counts anonymously which steps are reached, and you can turn that off.
 Where is my workout data stored?
 On your iPhone. Without Butties, Strava and CoachButt, workouts, weights, nutrition and steps don't leave the device.
 Get Butt off the couch
