@@ -220,5 +220,14 @@
     <div class="row"><a class="pill" href="../../was-ist-neu/">Was ist neu</a><a class="pill" href="../../presse/">Presse</a><a class="pill" href="../../datenschutz.html">Datenschutz</a><a class="pill" href="../../impressum/">Impressum</a><a class="pill" href="../../en/guides/gymbutt-pro/" hreflang="en" lang="en">English</a></div>
   </footer>
 </div>
+<script>
+(function () {
+  var ref = (new URLSearchParams(location.search).get("ref") || "").toLowerCase().replace(/[^a-z0-9-]/g, "").slice(0, 30);
+  var ct = ref ? "web-" + ref : "web";
+  document.querySelectorAll('a[href^="https://apps.apple.com/app/gymbutt/id6824511814"]').forEach(function (a) {
+    a.href = "https://apps.apple.com/app/apple-store/id6824511814?pt=129639917&ct=" + ct + "&mt=8";
+  });
+})();
+</script>
 </body>
 </html>

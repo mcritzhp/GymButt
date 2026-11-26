@@ -205,5 +205,14 @@
     <div class="row"><a class="pill" href="../../../en/whats-new/">What&#x27;s new</a><a class="pill" href="../../../en/press/">Press</a><a class="pill" href="../../../en/privacy/">Privacy</a><a class="pill" href="../../../en/imprint/">Imprint</a><a class="pill" href="../../../ratgeber/von-strong-hevy-wechseln/" hreflang="de" lang="de">Deutsch</a></div>
   </footer>
 </div>
+<script>
+(function () {
+  var ref = (new URLSearchParams(location.search).get("ref") || "").toLowerCase().replace(/[^a-z0-9-]/g, "").slice(0, 30);
+  var ct = ref ? "web-" + ref : "web";
+  document.querySelectorAll('a[href^="https://apps.apple.com/app/gymbutt/id6824511814"]').forEach(function (a) {
+    a.href = "https://apps.apple.com/app/apple-store/id6824511814?pt=129639917&ct=" + ct + "&mt=8";
+  });
+})();
+</script>
 </body>
 </html>
